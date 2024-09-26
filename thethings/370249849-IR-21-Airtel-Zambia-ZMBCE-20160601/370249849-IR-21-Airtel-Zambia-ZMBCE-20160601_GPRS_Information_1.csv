@@ -1,0 +1,34 @@
+"History of changes
+(maximum length: 1 page only)",Column_2,Column_3
+"Date of
+change","Effective
+date",Changes made
+Oct. 2010,"12th October
+2010"," Updated International DPC and Carrier information
+ Updated contact e-mail addresses
+ Inclusion of additional SMSC GTs"
+March 2011,"22nd March
+2011"," Updated GPRS Information: BGP IP address.
+ Updated GPRS Information: GRX Provider."
+June 2011,"13th June
+2011", Updated GPRS Information: 3G DNS IP address
+"November
+2011","17th
+November
+2011", Updated GPRS Information: Addition of new GSN IP ranges.
+July 2012,"11th July
+2012", Updated ANSI to ITU SCCP Gateway
+"November
+2012","10th
+November
+2012"," Updated GPRS Information: SGSN and GGSN details
+ Added roamware dummy GTs."
+June 2013,"18th June
+2013", Change of Operator name
+July 2013,"8th July
+2013"," Inclusion of Pyro inroam GT
+ Inclusion of MSS07 (Blade cluster) GT"
+May 2015,"4th May
+2015", Updated Contact Information
+June 2016,"1st June
+2016", Updated Contact Information

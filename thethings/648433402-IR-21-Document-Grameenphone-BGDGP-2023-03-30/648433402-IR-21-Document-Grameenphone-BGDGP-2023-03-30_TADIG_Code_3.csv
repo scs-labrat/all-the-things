@@ -1,0 +1,13 @@
+TADIG code:,BGDGP
+Network name:,grameenphone
+Network type:,Terrestrial
+Technology:,Frequency list:
+2G-GSM frequencies:,"GSM 900, DCS 1800"
+3G-UTRA/FDD frequencies:,Unsupported
+3G-UTRA/TDD frequencies:,Unsupported
+4G-E-UTRAN frequencies:,"8 - 900 MHz, 3 - DCS 1800"
+4G-E-UTRAN-MIoT-LTE-M frequencies:,Unsupported
+4G-E-UTRAN-MIoT-NB-IoT frequencies:,Unsupported
+MIoT-NB-IoT deployment modes:,Unsupported
+5G NR frequencies:,Unsupported
+Presentation of country initials and MNN:,"Bangladesh, BGDGP"

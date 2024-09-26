@@ -1,0 +1,23 @@
+TADIG Code,Section ID,Section,Date,Description
+AAMT1,16,Packet Data Service Information,2020-08-13,Added APN operator identifier for 242 99
+AAMT1,5,International SCCP Gateway,2020-07-03,Changed to 901 71
+AAMT1,16,Packet Data Service Information,2020-06-15,Changed to 901 71
+AAMT1,5,International SCCP Gateway,2019-04-10,Changed STP on Tampnet
+AAMT1,6,Domestic SCCP Gateway,2019-04-10,Saved STP on Tampnet
+AAMT1,5,International SCCP Gateway,2019-04-08,New point code for Tampnet NorthSea
+AAMT1,6,Domestic SCCP Gateway,2019-04-08,New point code for Tampnet 242 99
+AAMT1,16,Packet Data Service Information,2019-02-19,GTPv0
+AAMT1,6,Domestic SCCP Gateway,2019-02-18,Domestic SCCP
+AAMT1,8,Subscriber Identity Authentication,2019-02-18,GSM auth
+AAMT1,10,MAP,2019-02-18,MAP3
+AAMT1,16,Packet Data Service Information,2019-02-18,GPRS info
+AAMT1,16,Packet Data Service Information,2019-02-18,GPRS update
+AAMT1,26,VoLTE Roaming Information Section,2019-02-18,VoLTE S8HR
+AAMT1,26,VoLTE Roaming Information Section,2019-02-18,S8HR constraints
+AAMT1,26,VoLTE Roaming Information Section,2019-02-18,S8HR
+AAMT1,26,VoLTE Roaming Information Section,2019-02-18,S8HR VoLTE QOS
+AAMT1,21,Contact Information,2017-10-16,NOC team added as contact
+AAMT1,21,Contact Information,2017-06-19,ir21 dist list update
+AAMT1,5,International SCCP Gateway,2017-06-16,Int SCCP added
+AAMT1,8,Subscriber Identity Authentication,2017-06-16,SIA
+AAMT1,21,Contact Information,2017-06-16,Contacts added

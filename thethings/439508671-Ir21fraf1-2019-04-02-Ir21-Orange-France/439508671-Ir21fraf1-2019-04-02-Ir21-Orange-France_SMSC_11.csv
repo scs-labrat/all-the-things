@@ -1,0 +1,12 @@
+Additional Information
+The MSISDNs ranges are coded as follow : 33 ZABPQMCDU where Z = 6 or 7
+Orange France host SMS-InterWorking for Monacell subscribers (Monaco) :
+SMS-MO from your network to Monacell subscribers (+3776XXXXXX) need to be routed to Orange France
+Implements +3776 GT in your SMSC and route SMS to +3776 subscribers towards our SS7 international SCCP Gateway
+Orange France host SMS-InterWorking for MVNO subscribers :
+"SMS-MO from your network to subscribers +33755500000 to +33755549999 and +33757900000 to +33757999999 need to be routed to Orange
+France"
+Implements +33755500000 to +33755549999 and +33757900000 to +3375799999 in your SMSC and route SMS towards our SS7 international SCCP
+Short Number Translation Information List: 3900 to 33969393900; 706 to 33675052000; 888 to 33654185468
+"Please note that the MSC GT (33689001040 and 33689001048) and the SGSN GT (33689001049 and 33689001050) belong to GT of Monaco
+Telecom operator"

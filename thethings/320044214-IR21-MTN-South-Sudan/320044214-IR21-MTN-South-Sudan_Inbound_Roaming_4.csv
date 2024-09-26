@@ -1,0 +1,31 @@
+MOBILE APPLICATION PART (MAP),Column_2,Column_3,Column_4,Column_5
+Introduction of higher supported MAP version,,,,
+Interworking Specifically for Roaming,,,,
+Application Context Name,Current version in,,,Comments
+,Inbound Roaming,,"Outbound
+Roaming8",
+,MSC/VLR,SGSN,,
+networkLocUp,V3,N/A,,
+roamingNumberEnquiry,V3,N/A,,
+infoRetrieval,V3,V3,,
+subscriberDataMngt,V3,V3,,
+networkFunctionalSs,V3,N/A,,
+mwdMngt,V2,N/A,,
+"shortMsgMT-Relay
+(called shortMsgRelay in v1)",V2,N /A,,
+"shortMsgMO-Relay
+(called shortMsgRelay in v1)",V2,N/A,,
+ss-InvocationNotification,V3,N/A,,
+subscriberInfoEnquiry,V3,V3,,
+gprsLocationUpdate,N/A,V3,,
+locationCancellation,V2,V2,,
+msPurging,V2,V2,,
+reset,V1,V1,,
+networkUnstructuredSs,V2,N/A,,
+reporting,V1,N/A,,
+callCompletion,,N/A,,
+istAlerting,,N/A,,
+serviceTermination,,N/A,,
+locationSvcGateway,N/A,N/A,,
+mm-EventReporting,,N/A,,
+authenticationFailureReport,V2,V2,,

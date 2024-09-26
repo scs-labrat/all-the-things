@@ -1,0 +1,39 @@
+GPRS Information,Column_2,Column_3,Column_4
+,,"*41.77.0.0/27
+*41.77.0.128/28",
+Autonomous System Number14(ASN):,,"Private AS: 64869
+Public AS: 37287",
+Pingable and trace routable IP address15:,,,
+GRX provider(s):,,BELGACOM,
+GPRS Information,,,
+List of APN’s available for testing and troubleshooting:,,,
+WEB,APN,,Internet
+,Username,,N/A
+,Password,,N/A
+,ISP DNS IP address (primary),,N/A
+,"ISP DNS IP address
+(secondary)",,N/A
+WAP,APN,,wap
+,Username,,N/A
+,Password,,N/A
+,WAP Gateway IP address,,10.150.0.140
+,WAP Server URL,,"http://portal.zm.airtel.com
+http://wap.zm.airtellive.com"
+,Port,,9201 (WSP) or 8080 (wHTTP)
+"MMS
+GTP version16",APN,,mms
+,Username,,N/A
+,Password,,N/A
+,"WAP Gateway IP address for
+MMS",,10.150.0.140
+,Messaging Server URL,,http://mms.zm.airtel.com:8002
+,SGSN,,SGSN 2010A MkVI
+,GGSN,,GGSN M120
+Blackberry,"APN
+Username
+Password",,"Blackberry.net
+N/A
+N/A"
+,,,
+BSS information17 :(optional field),,,
+Contact person(s) for GPRS18: (optional field),,,TSG@zm.airtel.com

@@ -1,0 +1,19 @@
+INTERNATIONAL SCCP GATEWAY,Column_2,Column_3,Column_4,Column_5,Column_6
+Name of SCCP carrier:,,,,,
+Signature:,,,,,
+Type:,,,,,
+International DPC:,,,,,
+"Date for the ability to transmit and handle
+XUDT/XUDTS:",,,,,
+,,,,,
+,,,,,
+DATE FOR THE AVAILABILITY OF WHITE BOOK SCCP IN THE PLMN,,,,,
+The ability to receive segmented XUDT/XUDTS:,,,,,
+The ability to send segmented XUDT/XUDTS:,,,,,
+SCCP Protocol available at PLMN for connection for International SS7 Roaming Signalling,,,,,
+ETSI (ITU-T),,,,,X
+ANSI,,,,,X
+SIGNALLING SYSTEM NO. 7 ACCESS SOLUTION,,,,,
+Initial solution:,Initial solution valid until (date):,,,,Subsequent solution:
+"A,C&D",,,,,E
+SUBSCRIBER IDENTITY AUTHENTICATION,,,,,

@@ -1,0 +1,30 @@
+Current version in,Column_2,Column_3
+Inbound roaming,,Outbound roaming
+MSC/VLR,SGSN,Outbound roaming
+MAPv3,N/A,MAPv3
+MAPv3,N/A,MAPv3
+MAPv3,-,MAPv3
+MAPv3,-,MAPv3
+MAPv2,N/A,MAPv2
+MAPv3,-,MAPv3
+MAPv2,-,MAPv3
+MAPv3,-,MAPv3
+MAPv3,N/A,-
+MAPv3,-,MAPv3
+N/A,MAPv3,-
+MAPv3,MAPv3,MAPv3
+MAPv3,-,MAPv2
+MAPv2,-,MAPv2
+-,N/A,-
+-,N/A,-
+-,N/A,-
+-,N/A,-
+-,N/A,-
+N/A,N/A,-
+-,N/A,-
+-,-,-
+-,N/A,-
+N/A,-,-
+N/A,-,-
+N/A,-,-
+-,-,-

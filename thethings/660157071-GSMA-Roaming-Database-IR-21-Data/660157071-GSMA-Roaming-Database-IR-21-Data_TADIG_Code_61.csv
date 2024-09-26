@@ -1,0 +1,21 @@
+TADIG Code,Section ID,Section Name
+SGPMM,5,International SCCP Gateway
+SGPMM,6,Domestic SCCP Gateway
+SGPMM,7,SCCP Protocol available at PMN for connection for International SS7 Roaming
+SGPMM,8,Subscriber Identity Authentication
+SGPMM,9,Test Numbers Information
+SGPMM,10,Mobile Application Part (MAP) Section
+SGPMM,11,MAP Optimal Routing Section
+SGPMM,12,MAP Inter Operator SMS Enhancement
+SGPMM,13,Network Elements Information
+SGPMM,14,USSD Information
+SGPMM,15,CAMEL Information
+SGPMM,17,IP-Roaming and IP-Interworking Information
+SGPMM,18,MMS Interworking Information
+SGPMM,19,WLAN Information
+SGPMM,20,Roaming in Long Term Evolution
+SGPMM,22,Hosted Networks
+SGPMM,21,Contact Information
+SGPMM,23,M2M Roaming Information
+SGPMM,24,MVNO Information
+SGPMM,26,VoLTE Roaming Information Section

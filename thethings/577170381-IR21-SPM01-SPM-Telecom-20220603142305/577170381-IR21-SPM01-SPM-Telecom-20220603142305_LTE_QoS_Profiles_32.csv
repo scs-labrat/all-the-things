@@ -1,0 +1,15 @@
+List of LTE QOS profiles,Column_2
+Profile name:,Roaming
+"QCI Value List: 1
+2
+5
+9",
+"QOS ARP List: 1
+2
+3
+12
+14",
+"ARP Preemption Vulnerability List: 0
+1",
+"ARP Preemption Capability List: 0
+1",

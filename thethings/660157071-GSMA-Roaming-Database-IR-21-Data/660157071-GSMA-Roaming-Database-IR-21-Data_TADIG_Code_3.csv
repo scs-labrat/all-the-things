@@ -1,0 +1,50 @@
+TADIG Code,Section ID,Section,Date,Description
+SGPMM,16,Packet Data Service Information,2014-11-03,Info for second IMSI range 525-08 (SGPMM) is added.
+SGPSH,4,Routing Information,2014-08-18,658241 is added to Network Nodes Global Range.
+SGPSH,13,Network Elements Information,2014-08-18,No new change. Table is rearranged for easy viewing.
+SGPSH,17,IP Roaming/Networking Information,2014-08-18,"New IP Range 199.255.4.0/24 added. Note: IP add
+199.255.4.0/24 ,116.68.0.16/28 and 116.68.0.32/28 are only
+applicable when StarHub is HPMN."
+SGPMM,4,Routing Information,2014-08-18,658241 is added to Network Nodes Global Range.
+SGPSH,17,IP Roaming/Networking Information,2014-05-30,New IP address ranges added.
+SGPSH,20,LTE Roaming Information,2014-05-30,New IP Address 203.116.249.252 added.
+SGPSH,21,Contact Information,2014-05-30,GPRS IREG Contact is updated.
+SGPSH,13,Network Elements Information,2014-04-30,New MSC/VLR +65 90247912 added.
+SGPSH,20,LTE Roaming Information,2014-03-05,2G/3G/LTE Roaming Agreement Scenario 3 & 4 updated.
+SGPSH,16,Packet Data Service Information,2014-02-01,"IP range 203.116.42.128/26 missing in previous version
+reinstated."
+SGPSH,4,Routing Information,2014-01-21,"New NDCs: 65 8724, 65 8725, 65 8726, 65 8727 & 65 8729
+added. Information on Fixed NDCs updated. StarHub introduced
+2nd IMSI range and TADIG code (M2M roaming)."
+SGPSH,5,International SCCP Gateway,2014-01-21,"StarHub introduced 2nd IMSI range and TADIG code (M2M
+roaming)."
+SGPSH,8,Subscriber Identity Authentication,2014-01-21,"StarHub introduced 2nd IMSI range and TADIG code (M2M
+roaming)."
+SGPSH,10,MAP,2014-01-21,"StarHub introduced 2nd IMSI range and TADIG code (M2M
+roaming)."
+SGPSH,13,Network Elements Information,2014-01-21,"MAP Gateway/SMSC Nos: 65 98540023-98540024, 65 98540026
+& 65 985440028 are added. StarHub introduced 2nd IMSI range
+and TADIG code (M2M roaming)."
+SGPSH,15,CAMEL Information,2014-01-21,"StarHub introduced 2nd IMSI range and TADIG code (M2M
+roaming)."
+SGPSH,16,Packet Data Service Information,2014-01-21,"StarHub introduced 2nd IMSI range and TADIG code (M2M
+roaming)."
+SGPSH,17,IP Roaming/Networking Information,2014-01-21,"StarHub introduced 2nd IMSI range and TADIG code (M2M
+roaming)."
+SGPSH,18,MMS Interworking Information,2014-01-21,"StarHub introduced 2nd IMSI range and TADIG code (M2M
+roaming)."
+SGPSH,20,LTE Roaming Information,2014-01-21,"StarHub introduced 2nd IMSI range and TADIG code (M2M
+roaming)."
+SGPSH,21,Contact Information,2014-01-21,Contact list updated.
+SGPSH,21,Contact Information,2014-01-21,"StarHub introduced 2nd IMSI range and TADIG code (M2M
+roaming)."
+SGPSH,21,Contact Information,2014-01-21,GPRS IREG contact is updated.
+SGPMM,4,Routing Information,2014-01-21,"StarHub introduced 2nd IMSI range and TADIG code (M2M
+roaming)."
+SGPSH,13,Network Elements Information,2013-08-12,New GMSC nodes GT 6598540002/3 added.
+SGPSH,21,Contact Information,2013-08-12,Contact list is updated.
+SGPSH,20,LTE Roaming Information,2013-05-04,LTE information is added.
+SGPSH,16,Packet Data Service Information,2013-03-02,"APN Operator Identifier corrected. It should read
+mnc005.mcc525.gprs."
+SGPSH,18,MMS Interworking Information,2013-03-02,"MMSC Domain Name corrected. It should read
+imms.mnc005.mcc525.gprs."

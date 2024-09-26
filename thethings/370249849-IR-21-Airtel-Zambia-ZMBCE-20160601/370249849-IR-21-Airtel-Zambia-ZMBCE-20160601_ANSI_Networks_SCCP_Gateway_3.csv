@@ -1,0 +1,24 @@
+"Date for the ability to transmit and handle
+XUDT/XUDTS: 4",Column_2,Column_3,Column_4,Column_5,Column_6
+ANSI Networks SCCP GATEWAY,,,,,
+Signature:,,SYNIVERSE,,,
+Type:,,ISC,,,
+International DPC:,,235-250-000,,,
+DATE FOR THE AVAILABILITY OF WHITE BOOK SCCP IN THE PLMN,,,,,
+The ability to receive segmented XUDT/XUDTS:,,,,,
+The ability to send segmented XUDT/XUDTS:,,,,,
+SIGNALLING SYSTEM NO. 7 ACCESS SOLUTION,,,,,
+Initial solution:,Initial solution valid until (date):,,,,Subsequent solution:
+,,,,,
+SUBSCRIBER IDENTITY AUTHENTICATION,,,,,
+"Authentication performed for roaming subscribers at the
+commencement of GSM Service5",,,,,
+"Authentication performed for roaming subscribers in case of
+GPRS6",,,,,
+AUTOMATIC ROAMING TESTING,,,,,
+Entity,,,Subscriber-Number,,Location
+"Automatic Answering CirCuit (AAC)
+7
+1. AAC
+2. AAC
+3. AAC",,,(MSISDN),,

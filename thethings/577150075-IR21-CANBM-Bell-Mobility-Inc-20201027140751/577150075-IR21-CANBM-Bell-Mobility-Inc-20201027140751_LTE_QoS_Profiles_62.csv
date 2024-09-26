@@ -1,0 +1,6 @@
+List of LTE QOS profiles,Column_2
+Profile name:,LTEQOS
+QCI Value List: 8,
+QOS ARP List: 11,
+ARP Preemption Vulnerability List: 1,
+ARP Preemption Capability List: 1,

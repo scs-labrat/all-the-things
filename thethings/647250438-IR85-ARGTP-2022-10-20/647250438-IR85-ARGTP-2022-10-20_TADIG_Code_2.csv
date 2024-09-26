@@ -1,0 +1,24 @@
+TADIG Code,"Alias TADIG
+Code",Section ID,Section,Date,Description
+ARGTP,ARGK9,4,Routing Information,2017-06-14,"ADD NEW MSRN FROM 5435847390 to the END
+line"
+ARGTP,ARGK9,4,Routing Information,2017-04-17,ADD NEW MSRN From 26644720
+ARGTP,ARGK9,4,Routing Information,2017-03-21,"Key2roam Hub prefixes 4179991 and 4179995
+added in order to ensure that all traffic reaches
+platform for certain mixed SMS-IW scenarios"
+ARGTP,ARGK9,5,International SCCP Gateway,2017-03-21,Additional DPC information added
+ARGTP,ARGK9,13,Network Elements Information,2017-03-21,"SMS-C network nodes added with Key2roam Hub
+prefixes 4179991 and 4179995 in order to ensure
+that all traffic can be exchanged for certain mixed
+SMS-IW scenarios"
+ARGTP,ARGK9,17,IP Roaming/Networking Information,2017-03-21,"New caching DNS IP added for existing DNS
+server dnsf03.comfone.grx 195.211.13.123
+and for DNS server dnsf04.comfone.grx
+195.211.13.124"
+ARGTP,ARGK9,17,IP Roaming/Networking Information,2017-03-21,"New caching DNS servers added for geo-
+distrubution dnsf05.comfone.grx 91.221.82.123,
+dnsf06.comfone.grx 91.221.82.124,
+dnsf07.comfone.grx 91.221.83.123,
+dnsf08.comfone.grx 91.221.83.124"
+ARGTP,ARGK9,17,IP Roaming/Networking Information,2017-03-21,New virtual IP range added 91.221.83.96/27
+ARGTP,ARGK9,21,Contact Information,2017-03-21,Escalation contact added

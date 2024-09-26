@@ -1,0 +1,32 @@
+ROUTING INFORMATION,Column_2,Column_3
+"CCITT E.164
+Number series:","Country Code
+(CC)","National Destination Code
+(NDC)"
+"MSISDN Number
+range(s):",55,"2195, 2196, 2197, 2198, 2199, 2298, 2299, 2498, 2499, 2798,
+2799, 2898, 2899,7196, 7199, 7399, 7499, 7599, 7799, 7998,
+7999, 8181, 8281, 8381, 8481, 8581, 8681, 8781, 8881, 8981,
+9191, 9192, 9291, 9292, 9391, 9491, 9591, 9691, 9791, 9891,
+9991.
+(see details in Miscellaneous information)"
+"Network nodes
+Global Title number
+range(s):",55,"011
+(see details in Miscellaneous information)"
+"MSRN number
+range(s):",55,"2199, 2299, 2499, 2799, 2899, 7196, 7199, 7399, 7499, 7599,
+7799, 7999, 8181, 8281, 8381, 8481, 8581, 8681, 8781, 8881,
+8981, 9191, 9291, 9391, 9491, 9591, 9691, 9791, 9891, 9991.
+(see details in Miscellaneous information)"
+"E.212 Number
+series:","Mobile Country
+Code
+(MCC)","Mobile Network Code
+(MNC)"
+,724,11
+"E.214 Mobile Global
+Title: (MGT)","Country Code of
+MGT
+(CC)","Network Code of MGT
+(NC)"

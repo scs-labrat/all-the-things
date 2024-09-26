@@ -1,0 +1,9 @@
+Date,Description
+2024-01-22,#P range information updated.
+2023-02-02,Added new user plane IP addresses for vEPG3 and vEPG4 ( 5.191.14.0/27 and 5.191.14.32/27)
+2021-07-05,IP address range - removed and added
+2020-10-06,Added new GRX provider DTAG (T-systems)
+2020-06-17,IP Address Range updated - 5.191.11.0/24
+2016-12-12,New IP Address Range added 5.191.11.0/25
+2015-03-31,New Inter PLMN IP address added.
+2012-07-23,New RAEX

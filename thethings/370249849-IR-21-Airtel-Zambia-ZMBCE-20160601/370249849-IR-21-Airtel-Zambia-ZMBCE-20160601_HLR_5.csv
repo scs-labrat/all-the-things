@@ -1,0 +1,16 @@
+Optimal Routing of mobile-to-mobile calls,Column_2,Column_3,Column_4,Column_5
+Application Context Name,Current Version,,,Comments
+,(V)MSC,GMSC,HLR,
+CallControlTransfer,,,N/A,
+LocationInfoRetrieval10,N/A,,,
+Inter-Operator SMS Enhancement,,,,
+Application Context Name,Current Version,,,Comments
+,"SMS-
+IWMSC","SMS-
+GMSC",HLR,
+shortMsgGateway,N/A,N/A,,
+shortMsgAlert,,,,
+Vendor Information,,,,
+BSS vendor(s) and SW/HW version:,,Ericsson R10/AXE810,,
+HLR vendor(s) and SW/HW version:,,Ericsson R10/AXE810,,
+MSC/VLR vendor(s) and SW/HW,,Ericsson R10/AXE810,,

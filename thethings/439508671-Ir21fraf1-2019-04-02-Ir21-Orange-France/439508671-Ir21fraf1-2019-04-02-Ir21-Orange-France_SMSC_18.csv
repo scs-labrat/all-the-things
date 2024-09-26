@@ -1,0 +1,22 @@
+Node type,Node ID,GT address / Address range,"IP address /
+Address range","IPv6 address /
+Address range",Vendor info,"SW / HW
+version","UTC
+offset"
+SMSC,,33 689000200,,,,,+01:00
+SMSC,,33 689000720,,,,,+01:00
+SMSC,,33 689004031,,,Mavenir,3.0,+01:00
+SMSC,,33 689004032,,,Mavenir,3.0,+01:00
+SMSC,,33 689004033,,,Mavenir,3.0,+01:00
+SMSC,,33 689004034,,,Mavenir,3.0,+01:00
+SMSC,,33 689004094,,,,,+01:00
+IP-SMGW,,33 689004041,,,Mavenir,3.0,+01:00
+IP-SMGW,,33 689004042,,,Mavenir,3.0,+01:00
+IP-SMGW,,33 689004043,,,Mavenir,3.0,+01:00
+IP-SMGW,,33 689004044,,,Mavenir,3.0,+01:00
+SGSN-2G+3G,,33 6890033 34 / 35,0.0.0.0,,,,+01:00
+SGSN-2G+3G,,33 6890033 38 / 41,0.0.0.0,,,,+01:00
+SGSN-2G+3G,,33 6890033 47 / 49,0.0.0.0,,,,+01:00
+SGSN-2G+3G,,33 6890033 51 / 53,0.0.0.0,,,,+00:00
+SGSN-2G+3G,,33 689003355,0.0.0.0,,,,+01:00
+SGSN-2G+3G,,33 6890033 57 / 58,0.0.0.0,,,,+01:00

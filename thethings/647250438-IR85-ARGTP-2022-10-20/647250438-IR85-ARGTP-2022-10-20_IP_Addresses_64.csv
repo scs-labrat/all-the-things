@@ -1,0 +1,29 @@
+Additional Information
+-
+=======================================================================================
+Implementation Information for Key2roam Hub
+=======================================================================================
+-
+Signalling Part
+"- Customer unique ID GT: The originator of the traffic is identified based on the Key2roam Hub Customer Unique ID GT. Customer unique ID GT (15
+digits) = the Key2roam Hub prefix (4179991) + Unique Operator Identity (X digits)"
+-
+-
+SMS traffic
+- Please define Key2roam Hub prefix 4179991 in order to receive SMS Interworking traffic from the Key2roam Hub
+-
+-
+Data Roaming and LTE Key2roam
+1) Operator Identifier DNS query for 2G/3G and LTE:
+"- The Key2roam Hub roaming partner operator identifiers *.mncXXX.mccYYY.gprs / *.epc.mncXXX.mccYYY.3gppnetwork.org to be sent from VPMN
+DNS to the DNS function (DNSF) of the Key2roam Hub IP: 195.211.12.122 and 195.211.13.122"
+"- Not to be sent to the GRX/IPX carrier DNS. The DNSF query response will contain the Virtual IP address which identifies the roaming partner within
+the Key2roam Hub community"
+2) The Key2roam HUB IP backbone ranges:
+- IP ranges to be opened on the PMN and its GRX/IPX carrier firewalls
+3) Operator Identification Virtual IP address: 195.211.13.246
+"4) The Key2roam Hub member is identified by the unique static Virtual IP address (195.211.13.246 for ARGK9) assigned by the Key2roam Hub for
+each network connected"
+5) DNSF IP addresses:
+"- HPMN DNS queried by the DNSF (195.211.12.122 / 195.211.13.122 / 195.211.13.123 / 195.211.13.124 / 91.221.82.123 / 91.221.82.124 /
+91.221.83.123 / 91.221.83.124) in order to get the IP address of the GGSN (2G/3G) or PGW (LTE)"

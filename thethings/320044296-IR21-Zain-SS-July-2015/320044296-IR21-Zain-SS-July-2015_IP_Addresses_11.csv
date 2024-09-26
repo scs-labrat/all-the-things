@@ -1,0 +1,35 @@
+"List of GRX authoritative DNS server IP addresses
+& names1 :","Primary: 91.151.159.52
+eDNS1.mnc006.mcc659.gprs
+Secondary: 91.151.159.53
+eDNS2.mnc006.mcc659.gprs"
+"List of PLMN local caching DNS server IP
+addresses & names:",
+IP address that responds to ping/traceroute:,"Primary:91.151.159.52
+eDNS1.mnc006.mcc659.gprs
+Secondary:91. 151.159.53
+eDNS2.mnc006.mcc659.gprs"
+GRX provider(s):,Telenor Global Services (TGS)
+Contact person(s) (in PLMN) for GRX connectivity:,
+"Contact person (in PLMN) to verify authority of a
+GRX provider to add/modify data in Root DNS:",
+Name:,
+Tel:,
+Fax (optional):,
+E-Mail:,
+"Alternative contact person (in PLMN) to verify
+authority of a GRX provider to add/modify data in
+Root DNS:",
+Name:,
+Tel:,
+Alternative Tel:,
+E-Mail (optional):,
+MMS Interworking Information,
+Domain name of MMSC,
+IP address range for MMSC,
+IP address(es) of incoming MTA,
+IP address(es) of outgoing MTA,
+Max. size of MMS allowed,
+Delivery Report allowed?,
+Read Report allowed?,
+Contact person(s) for IW MMS: (optional field),

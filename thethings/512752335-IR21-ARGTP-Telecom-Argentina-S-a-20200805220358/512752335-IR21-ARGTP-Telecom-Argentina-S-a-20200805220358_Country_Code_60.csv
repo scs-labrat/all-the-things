@@ -1,0 +1,28 @@
+Additional Information
+NEW DIALING MODALITY
+Following is the new dialing modality established by the Communications Secretary of Argentina.
+"It must be used when calling from any country, except from Argentina, to CPP"
+(Calling party Pays)mobile numbers in Argentina without caring the location
+of this mobile at the moment of the call. (See all Telecom Personal ranges below).
+"As from October 7, 2002, a new digit (9) shall be added to mobile numbers when dialing from abroad,"
+all incoming calls to CPP mobile numbers in Argentina shall have the following format:
+54 + 9 + AREA CODE + CUSTOMER MOBILE NUMBER
+-
+How to dial to a CPP mobile number in Argentina (e.g. dialing to a mobile from Buenos Aires City which
+area code is 11).
+"Dialing format from the abroad after October 7, 2002"
++ 54 9 11 XXXX XXXX
+-
+"All national numbers in Argentina have a length of 10 digits. The area codes can have 2, 3 or 4 digits"
+"resulting in local numbers with lengths of 8, 7 or 6 digits respectively."
+-
+-
+CALL FORWARDING
+Due to the implementation of the above New Dialing Modality all Call Forwarding must be loaded in the
+international format following below instructions:
+Forwarding to a CPP mobile from Argentina
+The call forwarding number must be loaded adding digit 9 after the Country Code:
+Example: +54 9 11 5174 1111
+-
+Forwarding to a fix or MPP mobile from Argentina
+"The call forwarding number must be loaded as it is, WITHOUT adding any digit:"

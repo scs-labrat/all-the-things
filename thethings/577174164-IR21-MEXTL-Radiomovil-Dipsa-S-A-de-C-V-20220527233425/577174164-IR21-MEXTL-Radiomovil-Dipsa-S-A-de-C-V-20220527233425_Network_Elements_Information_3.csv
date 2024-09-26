@@ -1,0 +1,49 @@
+TADIG Code,Section ID,Section,Date,Description
+MEXTL,4,Routing Information,2018-04-12,ADDED NEW MSRN RANGES
+MEXTL,4,Routing Information,2018-04-12,ADDED MSRN RANGES
+MEXTL,4,Routing Information,2018-04-06,ADDED AND DELETED MSISDN AND MSRN NUMBERS
+MEXTL,4,Routing Information,2018-04-06,ADDED AND DELETED MSISDN NUMBERS
+MEXTL,4,Routing Information,2018-03-21,MSISDN RANGES CORRECTED
+MEXTL,4,Routing Information,2018-03-21,MSISDN RANGES CORRECTED
+MEXTL,4,Routing Information,2018-03-17,ADDED AND DELETED MSISDN NUMBERS
+MEXTL,4,Routing Information,2018-03-17,ADDED AND DELETED MSRN NUMBERS
+MEXTL,21,Contact Information,2018-02-23,Contacts changed
+MEXTL,4,Routing Information,2018-02-22,Added and deleted MSISDN number ranges
+MEXTL,4,Routing Information,2018-02-22,Added and deleted MSRN number ranges
+MEXTL,21,Contact Information,2018-02-22,UPDATE CONTACT INFORMATION
+MEXTL,21,Contact Information,2018-02-22,UPDATE CONTACT INFORMATION
+MEXTL,4,Routing Information,2018-01-22,ADDED AND DELETED MSISDN RANGES
+MEXTL,17,IP Roaming/Networking Information,2018-01-22,Changed Local Caching DNS IP
+MEXTL,4,Routing Information,2018-01-18,ADDED AND DELETED MSRN RANGES
+MEXTL,4,Routing Information,2018-01-18,ADDED AND DELETED MSISDN RANGES
+MEXTL,13,Network Elements Information,2018-01-18,ADDED MME-SGSN NODES
+MEXTL,17,IP Roaming/Networking Information,2017-12-21,Added new IP BackBone Address
+MEXTL,4,Routing Information,2017-11-29,Added and deleted MSISDN number ranges
+MEXTL,13,Network Elements Information,2017-11-29,"Added PGW (NEX1VP, VAL1VP) and SCP ITH1OCS"
+MEXTL,17,IP Roaming/Networking Information,2017-10-13,Added DNS Name for 4G
+MEXTL,4,Routing Information,2017-10-12,Add and deleted MSISDN number ranges
+MEXTL,4,Routing Information,2017-09-06,Added and deleted MSISDN number ranges
+MEXTL,13,Network Elements Information,2017-09-06,Added HLR Node 52941000067000
+MEXTL,4,Routing Information,2017-08-02,Added and deleted MSISDN number ranges
+MEXTL,4,Routing Information,2017-08-02,Added and deleted MSISDN ranges
+MEXTL,4,Routing Information,2017-08-02,Added and deleted MSISDN ranges
+MEXTL,4,Routing Information,2017-08-02,Added and deleted MSRN ranges
+MEXTL,4,Routing Information,2017-06-21,ADDED AND DELETED MSISDN RANGES
+MEXTL,4,Routing Information,2017-06-21,ADDED MSRN RANGE 52331851
+MEXTL,4,Routing Information,2017-04-26,ADDED AND DELETED MSISDN NUMBER RANGES
+MEXTL,13,Network Elements Information,2017-03-29,TECGL nodes are set as ranges
+MEXTL,13,Network Elements Information,2017-03-23,ADDED MSC/VLR NETWORK NODES TECGL1-5
+MEXTL,13,Network Elements Information,2017-03-23,DELETED SGSN AND VLR NODES MTYGL1 AND HERGL1
+MEXTL,13,Network Elements Information,2017-03-23,ADDED SGSN NODES TECGL1-5
+MEXTL,4,Routing Information,2017-03-17,ADDED AND DELETED MSISDN AND MSRN RANGES
+MEXTL,13,Network Elements Information,2017-03-06,Added new MME nodes R9POR1VMME and R9CAR1VMME
+MEXTL,17,IP Roaming/Networking Information,2017-03-06,"Replacement of IP Backbone Address ranges: 200.68.140.240/30,
+200.68.141.244/30 and 200.95.160.224/29"
+MEXTL,17,IP Roaming/Networking Information,2017-03-06,deleted IP 200.68.141.247/32
+MEXTL,13,Network Elements Information,2017-02-22,Update GT 5294100007980 of MSC/VLR node PACBC1
+MEXTL,13,Network Elements Information,2017-02-14,DELETED MSC/VLR NODES PVRSW1 AND CUESW1
+MEXTL,17,IP Roaming/Networking Information,2017-02-14,ADDED INTER-PLMN BACKBONE IP RANGES
+MEXTL,4,Routing Information,2017-02-13,ADDED AND DELETED MSISDN NUMBER RANGES
+MEXTL,4,Routing Information,2017-02-13,ADDED AND DELETED MSRN NUMBER RANGES
+MEXTL,13,Network Elements Information,2017-02-08,"Added GGSN/S-PGW Nodes R4MAY3GSP, R4REV3GSP,
+R5FRE2GSP and R5TLA2GSP"

@@ -1,0 +1,56 @@
+TADIG Code,Section ID,Section,Date,Description
+SGPSH,17,IP Roaming/Networking Information,2016-10-06,"New ASN 24545 added. New IP ranges 192.234.88.48/28,
+185.81.136.160/28, 193.240.51.80/29, 4.15.38.104/29,
+192.234.88.112/28, 103.4.245.32/29 are added."
+SGPSH,20,LTE Roaming Information,2016-10-06,GSMA new format
+SGPSH,13,Network Elements Information,2016-09-09,"New SMSC GT +65 6598541097 and +65 6598541098, and
+SGSN +65 98541093 are added."
+SGPSH,17,IP Roaming/Networking Information,2016-09-09,New IP range 103.4.245.32/30 is added.
+SGPSH,17,IP Roaming/Networking Information,2016-06-20,"New ASN 65450 and 61262 added. New IP range
+185.39.52.24/29, 185.39.54.24/29, 193.240.51.81/32,
+193.240.51.82/32, 192.234.88.32/28, 192.234.88.96/28,
+4.15.38.105/32, 4.15.38.106/32. GRX Provider Info updated."
+SGPSH,21,Contact Information,2016-06-20,Contact updated.
+SGPSH,5,International SCCP Gateway,2016-04-08,New comment for Type: STP added.
+SGPSH,17,IP Roaming/Networking Information,2016-04-08,"New ASN 9874 and 65010 added. New IP range
+103.231.49.128/26 added."
+SGPSH,21,Contact Information,2016-04-08,Escalation contact is updated.
+SGPSH,17,IP Roaming/Networking Information,2016-02-22,"New IP range 203.116.42.16/29, 203.116.42.24/29,
+203.116.42.32/27, 203.116.42.64/28, 203.116.22.144/28,
+203.116.22.160/27 and 183.78.8.0/24 is added. New ASN 45960
+is added. New DNS address 203.116.22.244 (Pri), 203.116.42.28
+(Sec) added."
+SGPSH,13,Network Elements Information,2015-12-22,"New MSC/VLR +65 98541095 and SGSN +65 6598541085
+added."
+SGPSH,17,IP Roaming/Networking Information,2015-11-07,"New ASN 18004, 4832 and 64569 added. New IP Range
+27.146.1.0/27, 27.146.1.32/27 and 202.62.29.0/24 added."
+SGPSH,13,Network Elements Information,2015-08-28,+65 98540023/24/26/28 node type changed to MSC/VLR.
+SGPSH,17,IP Roaming/Networking Information,2015-08-28,New ASN 22870 for Syniverse GRX migration is added.
+SGPSH,5,International SCCP Gateway,2015-06-26,Added existing SCCP information.
+SGPSH,17,IP Roaming/Networking Information,2015-06-26,New Inter-PLMN IP added.
+SGPSH,21,Contact Information,2015-06-26,IREG Contact is updated.
+SGPSH,4,Routing Information,2015-05-08,"New NDCs 65 8789, 65 8790, 65 8829, 65 8830 and 65 8831
+added. MSRN 65 8241 reinstated."
+SGPSH,13,Network Elements Information,2015-05-08,"New NT-HLR GT 6598541011 to 6598541018 and 6598541021 to
+6598541025 added."
+SGPSH,17,IP Roaming/Networking Information,2015-05-08,ASN 38322 is added. New IP Range 42.153.1.0/24 is added.
+SGPSH,20,LTE Roaming Information,2015-05-08,Diameter and LTE QoS Profile List updated.
+SGPMM,4,Routing Information,2015-05-08,MSRN details added. Bogus ASN 23456 is removed.
+SGPSH,17,IP Roaming/Networking Information,2015-03-04,ASN 64851 is added.
+SGPSH,4,Routing Information,2015-02-13,"New ASN 131591 added. While waiting for the next new schema
+version 9.2 to be ready, ASN 131591 is added to Additional
+Information field in Routing section."
+SGPSH,17,IP Roaming/Networking Information,2015-02-13,"New ASN 131591 added. While waiting for the next new schema
+version 9.2 to be ready, ASN 131591 is added to Additional
+Information field in Routing section."
+SGPMM,4,Routing Information,2015-02-13,"New ASN 131591 added. While waiting for the next new schema
+version 9.2 to be ready, ASN 131591 is added to Additional
+Information field in Routing section."
+SGPSH,4,Routing Information,2014-11-06,658241 is removed Network Nodes Global Range.
+SGPSH,13,Network Elements Information,2014-11-06,SMSC GT 65 8241 is removed.
+SGPSH,17,IP Roaming/Networking Information,2014-11-06,"New IP Range 103.231.48.128/26 is added. Note: Only applicable
+when StarHub is HPMN."
+SGPMM,4,Routing Information,2014-11-06,658241 is removed Network Nodes Global Range.
+SGPSH,17,IP Roaming/Networking Information,2014-11-03,Info for second IMSI range 525-08 (SGPMM) is removed.
+SGPSH,20,LTE Roaming Information,2014-11-03,Info for second IMSI range 525-08 (SGPMM) is removed.
+SGPSH,21,Contact Information,2014-11-03,GPRS Contact is updated.

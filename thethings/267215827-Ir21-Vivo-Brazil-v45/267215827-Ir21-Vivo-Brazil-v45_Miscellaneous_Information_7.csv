@@ -1,0 +1,29 @@
+"MSISDN Number
+range(s):",55,"11941, 11942, 11950, 11953, 11954, 11955, 11956, 11957,
+11960, 11961, 11963, 11964, 11968, 11969, 11970, 11971,
+11972, 11973, 11974, 11975, 11995, 11996, 11997, 11998,
+11999, 1296, 1297, 1396, 1397, 1496, 1497, 1498, 1499, 1596,
+1597, 1598, 1696, 1697, 1699, 1796, 1797, 1896, 1897, 1898,
+1996, 1997, 1998.
+(see details in Miscellaneous information)"
+"Network nodes
+Global Title number
+range(s):",55,"010
+(see details in Miscellaneous information)"
+"MSRN number
+range(s):",55,"11974, 1297, 1397, 1496, 1597, 1697, 1797, 1897, 1996, 1998.
+(see details in Miscellaneous information)"
+"E.212 Number
+series:","Mobile Country
+Code
+(MCC)","Mobile Network Code
+(MNC)"
+,724,10
+"E.214 Mobile Global
+Title: (MGT)","Country Code of
+MGT
+(CC)","Network Code of MGT
+(NC)"
+,55,010
+"Does Number
+Portability apply?",YES ˜ NO (cid:127),

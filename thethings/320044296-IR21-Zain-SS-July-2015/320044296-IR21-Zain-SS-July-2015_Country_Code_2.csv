@@ -1,0 +1,46 @@
+Operator Name:,Column_2,Column_3,"The South Sudanese Mobile Telephone
+(Zain) Co. Ltd - South Sudan",Column_5,Column_6,Column_7
+Technology:,,,GSM,,,
+Frequency:,,,"GSM 900, GSM 1800 & GSM 900/1800",,,
+Country (Abbreviated according to ISO 3166):,,,SS,,,
+ROUTING INFORMATION,,,,,,
+CCITT E.164 Number series:,,"Country Code
+(CC)",,"National Destination Code
+(NDC)",,
+MSISDN number range(s):,,211,,91,,
+"Network nodes Global Title number
+range(s):",,211,,91,,
+MSRN number range(s):,,211,,91 803,,
+E.212 Number series:,,"Mobile Country Code
+(MCC)",,"Mobile Network Code
+(MNC)",,
+,,659,,06,,
+"E.214 Mobile Global
+Title: (MGT)",,"Country Code of MGT
+(CC)",,"Network Code of MGT
+(NC)",,
+,,211,,91,,
+Does Number Portability apply?,,,No,,,
+PRIMARY INTERNATIONAL SCCP GATEWAY,,,,,,
+Name of SCCP carrier:,,,Telenor Global Services (TGS),,,
+Signature:,,C4STP1,,,OGSTP1,
+Type:,,STP-SCCP,,,STP-SCCP,
+International DPC:,,"2-085-0
+(4776)",,,"2-085-3
+(4779)",
+"Date for the ability to transmit and handle
+XUDT/XUDTS:",,,,,,
+* Primary and secondary SCCP Gateway assignment will be submitted on a per network basis by,,,,,,
+Telenor.,,,,,,
+"SCCP carrier Name: Syniverse Technologies, Inc. - ANSI-ITU translation
+DPC Info
+Signature : Syniverse ITU
+Type : SCCP/STP
+International DPC : 3-030-5 (6389)
+Comments : Syniverse ANSI: SCCP/STP; Domestic DPC 235-250-000",,,,,,
+,DPC Info,,,,,
+,Signature : Syniverse ITU,,,,,
+,Type : SCCP/STP,,,,,
+,International DPC : 3-030-5 (6389),,,,,
+,Comments : Syniverse ANSI: SCCP/STP; Domestic DPC 235-250-000,,,,,
+,,,,,,

@@ -1,0 +1,5 @@
+Date,Description
+2022-08-12,"Backbones added: 77.32.226.0/27, 77.32.226.32/27, 77.32.226.64/27, 77.32.226.96/27, 77.32.226.128/27, 77.32.226.160/27,
+77.32.226.192/27, 77.32.226.224/27. Backbone removed: 77.32.226.0/24"
+2019-05-13,New virtual IP range added 185.47.26.0/25
+2018-09-25,New IP address range 77.32.226.0/24 added to be used as virtual IP addresses for new Key2roam Hub members

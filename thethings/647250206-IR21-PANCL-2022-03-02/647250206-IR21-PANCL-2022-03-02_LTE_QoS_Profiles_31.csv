@@ -1,0 +1,15 @@
+List of LTE QOS profiles,Column_2
+Profile name:,LTE QoS_75M_75M
+QCI Value List: 9,
+QOS ARP List: 1,
+ARP Preemption Vulnerability List: 1,
+ARP Preemption Capability List: 1,
+Profile name:,Supported QCI for IMS Services
+"QCI Value List: 1
+2
+5",
+"QOS ARP List: 1
+5
+8",
+ARP Preemption Vulnerability List: 0,
+ARP Preemption Capability List: 1,

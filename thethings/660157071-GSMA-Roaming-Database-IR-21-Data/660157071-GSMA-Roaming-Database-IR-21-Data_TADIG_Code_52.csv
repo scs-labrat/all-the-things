@@ -1,0 +1,12 @@
+TADIG Code,Section ID,Section Name
+SGPSH,6,Domestic SCCP Gateway
+SGPSH,7,SCCP Protocol available at PMN for connection for International SS7 Roaming
+SGPSH,9,Test Numbers Information
+SGPSH,11,MAP Optimal Routing Section
+SGPSH,12,MAP Inter Operator SMS Enhancement
+SGPSH,14,USSD Information
+SGPSH,19,WLAN Information
+SGPSH,22,Hosted Networks
+SGPSH,23,M2M Roaming Information
+SGPSH,24,MVNO Information
+SGPSH,26,VoLTE Roaming Information Section

@@ -1,0 +1,53 @@
+TADIG Code,Section ID,Section,Date,Description
+CANBM,17,IP Roaming/Networking Information,2020-10-26,Add IP ranges 69.158.242.80/28 and 69.158.244.64/28
+CANBM,17,IP Roaming/Networking Information,2020-10-26,"Added two new local cache DNS IPs 69.158.244.70 and
+69.158.242.85"
+CANBM,20,LTE Roaming Information,2020-10-26,Updated FQDN Information
+CANBM,20,LTE Roaming Information,2020-10-26,Updated FQDN Information
+CANBM,20,LTE Roaming Information,2020-10-26,Updated FQDN Information
+CANMM,17,IP Roaming/Networking Information,2020-10-26,"Added 69.158.242.80/28 and 69.158.244.64/28 to IP Interworking
+section"
+CANMM,20,LTE Roaming Information,2020-10-26,Updated FQDN Information
+CANMM,20,LTE Roaming Information,2020-10-26,Updated FQDN Information for 302690
+CANBM,17,IP Roaming/Networking Information,2020-10-20,"Updated IP Roaming DNS servers for Inbound traffic Vancouver/
+Calgary"
+CANBM,20,LTE Roaming Information,2020-10-20,Updated Diameter Primary FQDN
+CANMM,17,IP Roaming/Networking Information,2020-10-20,Update CANMM DNS servers
+CANMM,17,IP Roaming/Networking Information,2020-10-20,Update CANMM DNS Servers
+CANMM,20,LTE Roaming Information,2020-10-20,Updated LTE FQDN table for PLMN CANMM
+CANBM,17,IP Roaming/Networking Information,2020-09-09,Add new IP Range 184.151.0.32/29
+CANBM,21,Contact Information,2020-09-09,Updated Contacts
+CANBM,17,IP Roaming/Networking Information,2020-08-11,Cosmetic changes completed
+CANBM,23,M2M Roaming Information,2020-08-11,Included example 302690 EPC
+CANBM,13,Network Elements Information,2020-04-16,"Updated Element names and removed 14382762012 and
+16473842012"
+CANBM,17,IP Roaming/Networking Information,2020-04-16,"Added DRA Host Ranges 69.158.233.16/29; 69.158.233.24/29;
+184.151.183.224/29;184.151.183.232/29"
+CANBM,23,M2M Roaming Information,2020-04-16,Added M2M info for OB only Roaming with 302690 CANMM
+CANBM,20,LTE Roaming Information,2020-02-25,"Added Two new Diameter Agents pairs for Primary
+and secondary. 69.158.233.20/69.158.233.28 and
+184.151.183.228/184.151.183.236"
+CANMM,17,IP Roaming/Networking Information,2020-02-25,"Changed IP 184.151.174.0 from /27 to /25. Also added
+207.236.238.32/27"
+CANMM,17,IP Roaming/Networking Information,2020-02-25,"Reversed changes to IP 184.151.174.0/27 and 207.236.238.32/27
+as these should not be here."
+CANMM,20,LTE Roaming Information,2020-02-25,"Two new primary and secondary Diameter
+agents 69.158.233.20/69.158.233.8 and
+184.151.183.228/184.151.183.236"
+CANBM,17,IP Roaming/Networking Information,2020-02-24,"Updated with new IP backbone Ranges 69.158.209.32/38 and
+69.128.238.112/28 for two new DNS servers for both IB and OB
+traffic support"
+CANMM,10,MAP,2020-02-24,Corrected MAP section as PLMN 302690 is outbound only
+CANMM,17,IP Roaming/Networking Information,2020-02-24,"Added new Effective March 16 Authoritative DNS Servers
+69.158.209.35 and 69.128.235.115"
+CANMM,17,IP Roaming/Networking Information,2020-02-24,Added DNS server Names for 69.158.209.35 and 69.128.235.115
+CANBM,17,IP Roaming/Networking Information,2020-02-21,"Adding new DNS (Auth) server IP's within these two ranges
+69.158.209.32/28 and 69.128.235.112/28"
+CANBM,17,IP Roaming/Networking Information,2020-02-21,"Correction only added two new Authoritative DNS server IP's
+69.158.209.35 and 69.128.235.115"
+CANBM,13,Network Elements Information,2020-02-07,"Addition of new HLR GT's 16473840089, 16473840090,
+16473840091 effective March 3rd"
+CANBM,21,Contact Information,2020-02-07,Updated Network IREG Contact Primes
+CANBM,26,VoLTE Roaming Information Section,2020-02-07,"VoLTE info updated for Emergency Calling support both via IMS
+and CS Fallback"
+CANBM,26,VoLTE Roaming Information Section,2020-01-31,Adding VoLTE

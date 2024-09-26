@@ -1,0 +1,12 @@
+TADIG Code,Section ID,Section Name
+TONDP,6,Domestic SCCP Gateway
+TONDP,7,SCCP Protocol available at PMN for connection for International SS7 Roaming
+TONDP,9,Test Numbers Information
+TONDP,14,USSD Information
+TONDP,18,MMS Interworking Information
+TONDP,19,WLAN Information
+TONDP,22,Hosted Networks
+TONDP,23,M2M Roaming Information
+TONDP,24,MVNO Information
+TONDP,26,VoLTE Roaming Information Section
+TONDP,27,LPWA Roaming Information Section

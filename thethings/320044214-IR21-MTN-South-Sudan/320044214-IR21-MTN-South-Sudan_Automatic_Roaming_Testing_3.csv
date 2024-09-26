@@ -1,0 +1,24 @@
+AUTOMATIC ROAMING TESTING,Column_2,Column_3
+Entity,Subscriber-Number,Location
+"Automatic Answering CirCuit (AAC) 7
+1. AAC
+2. AAC
+3. AAC
+. . .",(MSISDN),
+"Automatic Answering Circuit
+(MSRN)
+1.MSRN
+2.MSRN
+3.MSRN",,
+"Data Automatic Answering Circuit
+(DAAC)
+1. Calls for Data
+1. DAAC
+2. DAAC
+3. DAAC
+. . .
+2. Fax Gr.3
+1. Fax DAAC
+2. Fax DAAC
+3. Fax DAAC
+. . .",(MSISDN/ISDN),

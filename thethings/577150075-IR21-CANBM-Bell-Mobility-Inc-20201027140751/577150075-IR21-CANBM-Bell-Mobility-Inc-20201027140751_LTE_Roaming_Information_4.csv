@@ -1,0 +1,55 @@
+TADIG Code,Section ID,Section,Date,Description
+CANBM,13,Network Elements Information,2015-11-04,"Added Four new HLR GT's 16473840059, 0060, 14382760059
+and 0060"
+CANBM,20,LTE Roaming Information,2015-11-04,"Updated VPMN 3GLTE Service supporting Scenario 2..keep in
+mind Bell Canada VPMN SGSN will not support gateway selection
+using UE-Capability."
+CANBM,13,Network Elements Information,2015-08-27,Removed GT 19027180001 no longer in use in Halifax
+CANBM,20,LTE Roaming Information,2015-08-27,Updated EPC Realm table to include epc in front of REALM
+CANBM,9,Test Numbers Information,2015-06-16,corrected some AAC test numbers from 3999 to 9999
+CANBM,13,Network Elements Information,2015-06-16,"Removed no longer active GT's 16473830001,
+16473832002-2003, 16473832005-2008"
+CANBM,20,LTE Roaming Information,2015-06-01,Updated FQDN and EPC Realm...removing leading EPC
+CANBM,4,Routing Information,2015-04-24,Added new active MSRN ranges for new MSS's
+CANBM,9,Test Numbers Information,2015-04-24,"Added new AAC numbers for our new active MSS's effective Apr
+24th"
+CANBM,16,Packet Data Service Information,2015-04-24,Modified Packet Data Service info IPV4-V6 and Mulit PDP support
+CANBM,17,IP Roaming/Networking Information,2015-04-24,"Added 184.151.177.0/29 to Backbone IP ranges effective April
+24th"
+CANBM,20,LTE Roaming Information,2015-04-24,Updated LTE info with EPC and FQDN
+CANBM,13,Network Elements Information,2015-02-06,"Added new IPSMGW nodes 16473842012, 14382762012 and
+14382762013"
+CANBM,17,IP Roaming/Networking Information,2015-02-06,Added new IP range to backbone 184.151.62.240/29
+CANBM,20,LTE Roaming Information,2015-01-13,Updated LTE Info area of support
+CANBM,20,LTE Roaming Information,2014-11-28,"Added a list of additional Diameter Peers for each MME
+Hostnames (Cards 1-12)"
+CANBM,17,IP Roaming/Networking Information,2014-10-15,"S Gateway expansion in Calgary 207.236.105.136/29 effective
+immediately"
+CANBM,17,IP Roaming/Networking Information,2014-08-19,"Corrected duplicate ip 207.236.105.232/29 in the list that will be
+effective Aug. 28 2014"
+CANBM,17,IP Roaming/Networking Information,2014-08-08,"Corrected IP range from 207.236.105.236/29 to
+207.236.105.232/29"
+CANBM,17,IP Roaming/Networking Information,2014-08-07,"S Gateway Expansion with 207.236.105.236/29 and additional
+ASN 22870"
+CANBM,17,IP Roaming/Networking Information,2014-06-03,S Gateway Expansion added IP range 207.236.105.0/29
+CANBM,21,Contact Information,2014-06-03,Corrected contact info in address book
+CANBM,21,Contact Information,2014-06-03,Contact info correction
+CANBM,21,Contact Information,2014-06-03,Corrected Contact info
+CANBM,21,Contact Information,2014-06-03,Corrected contact info
+CANBM,17,IP Roaming/Networking Information,2014-05-14,"Added two new IP's to backbone 131.166.142.0/28 and
+131.166.142.16/28"
+CANBM,13,Network Elements Information,2014-03-12,"Added 6 GT’s for New NSN MSS’S (14382760002, 19027180002,
+16473840002, 16473830002, 14034080002, 16043480002)"
+CANBM,20,LTE Roaming Information,2014-03-12,"Added a list of additional Diameter Peers for each MME (Cards
+03-12)"
+CANBM,13,Network Elements Information,2014-01-09,Corrected since our SMSC GT 14382762000 was missing from list
+CANBM,17,IP Roaming/Networking Information,2014-01-03,"Corrected IP range as advertised removed 131.166.254.8/28 and
+added 131.166.254.8/29; 131.166.254.16"
+CANBM,17,IP Roaming/Networking Information,2014-01-03,"Corrected IP range as advertised removed 131.166.254.8/28 and
+added 131.166.254.8/29"
+CANBM,4,Routing Information,2013-12-13,"Added MSISDN ranges 1-226 and 1-416 that were discarded in
+error"
+CANBM,5,International SCCP Gateway,2013-12-13,Modified entry for Primary SCCP
+CANBM,16,Packet Data Service Information,2013-12-13,Added ARPQOS value 3
+CANBM,16,Packet Data Service Information,2013-12-13,Edited ARPQOS list
+CANBM,16,Packet Data Service Information,2013-12-13,Edited 2G/3GQOS profile

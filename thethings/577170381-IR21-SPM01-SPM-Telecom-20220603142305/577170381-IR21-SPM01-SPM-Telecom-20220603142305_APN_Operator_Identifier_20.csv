@@ -1,0 +1,4 @@
+List of APN Operator Identifiers,Column_2,Column_3
+APN Operator Identifier,Description,Example
+mnc003.mcc308.gprs,Mobile APN,spmtelecom.mnc003.mcc308.gprs
+mnc003.mcc308.3gppnetwork.org,Mobile APN LTE,mnc003.mcc308.3gppnetwork.org

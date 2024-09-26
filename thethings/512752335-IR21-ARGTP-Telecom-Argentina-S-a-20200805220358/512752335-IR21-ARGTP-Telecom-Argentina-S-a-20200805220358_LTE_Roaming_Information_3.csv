@@ -1,0 +1,49 @@
+TADIG Code,Section ID,Section,Date,Description
+ARGTP,21,Contact Information,2016-10-04,Add Escalation Contact
+ARGTP,21,Contact Information,2016-10-04,Escalation contact Troubleshooting
+ARGVO,21,Contact Information,2016-10-04,New Contacts
+ARGTP,4,Routing Information,2016-10-03,Modify range 54222545200 & 542923596000
+ARGTP,4,Routing Information,2016-10-03,ADD MSRN FROM 5434824471 at the end.
+ARGTP,13,Network Elements Information,2016-10-03,ADD new nodes MME&PGW
+ARGTP,20,LTE Roaming Information,2016-10-03,LTE IPX provider TIS
+ARGVO,16,Packet Data Service Information,2016-10-03,Delete APN mnc036.mcc722.gprs and Add mnc361.mcc722.gprs
+ARGTP,4,Routing Information,2016-05-18,New MSISDN
+ARGTP,4,Routing Information,2016-05-16,NEW MSRN Ranges fron 5435634950 to 5435644425
+ARGTP,4,Routing Information,2016-04-01,NEW MSRN from this line 54-35847396
+ARGTP,21,Contact Information,2016-04-01,NEW TADIG Contact
+ARGTP,21,Contact Information,2016-04-01,ADD NEW CONTACT
+ARGTP,13,Network Elements Information,2015-12-02,ADD NEW MSC RANGE 5434990400/499 and 5434990500/599
+ARGTP,4,Routing Information,2015-11-18,ADD NEWW MSRN RANGS FROM 5435847392 to 5426044623
+ARGVO,17,IP Roaming/Networking Information,2015-11-10,"Remove DNS0,DNS1,DNS2&DNS3; ADD DNS with IP
+190.224.101.33 &190.224.101.34;ADD IP Address range"
+ARGTP,17,IP Roaming/Networking Information,2015-11-05,"DELETE DNS0,DNS1,DNS2,DNS3 with IPs
+( 200.43.139.95;200.43.139.96;200.43.139.114;200.43.139.117)"
+ARGTP,4,Routing Information,2015-10-07,ADD MSRN from 54-35848970 to 54-11415585
+ARGTP,21,Contact Information,2015-10-07,New Contact
+ARGTP,4,Routing Information,2015-07-16,ADD MSRN FROM line 5422414014
+ARGTP,13,Network Elements Information,2015-06-17,ADD New SMSC
+ARGVO,16,Packet Data Service Information,2015-06-17,ADD APN operator identifier by M2M
+ARGVO,23,M2M Roaming Information,2015-06-17,ADD APN Network identifier and M2M data
+ARGVO,23,M2M Roaming Information,2015-06-17,ADD new APN M2M and sub range IMSI
+ARGTP,13,Network Elements Information,2015-05-19,MOD. SGSN IP
+ARGTP,17,IP Roaming/Networking Information,2015-05-19,"DEL IP 190.225.250.128/27 and ADD
+190.225.250.128/29,190.225.250.136/29,190.225.250.144/29"
+ARGTP,16,Packet Data Service Information,2015-05-05,New APN LTE Operator Identifier
+ARGTP,17,IP Roaming/Networking Information,2015-05-05,ADD DNS LTE
+ARGTP,20,LTE Roaming Information,2015-05-04,DEA IP
+ARGTP,20,LTE Roaming Information,2015-04-30,LTE INFO
+ARGTP,20,LTE Roaming Information,2015-04-30,ADD EPC
+ARGTP,20,LTE Roaming Information,2015-04-30,ADD IP address DEA
+ARGTP,4,Routing Information,2015-04-27,ADD NEW MSRN (11533015 to 28042225)
+ARGTP,16,Packet Data Service Information,2015-04-27,NEW APN datos.personal.com
+ARGTP,20,LTE Roaming Information,2015-04-13,S9 hostname added by Roamsys
+ARGTP,17,IP Roaming/Networking Information,2015-04-10,ADD GRX_LTE provider and DNS by LTE
+ARGTP,20,LTE Roaming Information,2015-04-10,ARP data
+ARGTP,20,LTE Roaming Information,2015-04-10,Add LTE
+ARGTP,13,Network Elements Information,2015-03-13,SGW & PGW
+ARGTP,13,Network Elements Information,2015-03-13,ADD Network nodes SGW & PGW
+ARGTP,17,IP Roaming/Networking Information,2015-03-13,ADD IP 181.88.119.0/24
+ARGTP,4,Routing Information,2015-03-11,Add MSRN from line 5437774400 to line 5429666894
+ARGTP,4,Routing Information,2014-10-10,add msisdn
+ARGTP,4,Routing Information,2014-10-09,ADD NEW MSRN
+ARGTP,4,Routing Information,2014-10-09,ADD NEW MSRN

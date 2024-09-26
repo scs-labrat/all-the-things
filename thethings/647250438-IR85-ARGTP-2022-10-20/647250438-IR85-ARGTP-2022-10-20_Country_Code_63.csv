@@ -1,0 +1,35 @@
+Additional Information
+NEW DIALING MODALITY
+54 + 9 + AREA CODE + CUSTOMER MOBILE NUMBER
+-
+area code is 11).
++ 54 9 11 XXXX XXXX
+CALL FORWARDING
+Forwarding to a CPP mobile from Argentina
+Example: +54 9 11 5174 1111
+Example: +54 11 4706 9238
+REQUIREMENT FOR SMS INTERWORKING
+MSISDN
+Following is the new dialing modality established by the Communications Secretary of Argentina.
+"It must be used when calling from any country, except from Argentina, to CPP"
+(Calling party Pays)mobile numbers in Argentina without caring the location
+of this mobile at the moment of the call. (See all Telecom Personal ranges below).
+"As from October 7, 2002, a new digit (9) shall be added to mobile numbers when dialing from abroad,"
+all incoming calls to CPP mobile numbers in Argentina shall have the following format:
+How to dial to a CPP mobile number in Argentina (e.g. dialing to a mobile from Buenos Aires City which
+"Dialing format from the abroad after October 7, 2002"
+"All national numbers in Argentina have a length of 10 digits. The area codes can have 2, 3 or 4 digits"
+"resulting in local numbers with lengths of 8, 7 or 6 digits respectively."
+Due to the implementation of the above New Dialing Modality all Call Forwarding must be loaded in the
+international format following below instructions:
+The call forwarding number must be loaded adding digit 9 after the Country Code:
+Forwarding to a fix or MPP mobile from Argentina
+"The call forwarding number must be loaded as it is, WITHOUT adding any digit:"
+According to the dialing modality in use today for calling CPP NDC ranges of Argentina from
+"abroad (see above), which require including digit 9 after country code (54), we ask you"
+please to analyze the following implementation in your SMSCs.
+In order to do not open our NDCs in your STPs twice (with and without digit 9 after
+"country code), perform +549 to +54 translation at your SMSCs."
+The MSISDN range complies with the GSM 03.03 and the CCITT E.164 and has a fixed length of 12 digits.
+MSISDN (E.164) = CC(E.164) + NDC(E.164) + SN(E.164)
+-

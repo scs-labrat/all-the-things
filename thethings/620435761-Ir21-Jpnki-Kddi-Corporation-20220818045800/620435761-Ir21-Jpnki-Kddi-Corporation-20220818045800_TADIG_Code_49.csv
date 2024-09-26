@@ -1,0 +1,15 @@
+TADIG code:,JPNKS
+Network name:,(440-54)
+Network type:,Terrestrial
+Technology:,Frequency list:
+2G-GSM frequencies:,Unsupported
+3G-UTRA/FDD frequencies:,Unsupported
+3G-UTRA/TDD frequencies:,Unsupported
+4G-E-UTRAN frequencies:,"1 - IMT 2.1 GHz, 3 - DCS 1800, 11 - 1.5 GHz Lower, 18 - 800 MHz Lower, 26 - 800 MHz
+iDEN, 28 - 700 MHz APAC, 41 - TDD 2.5 GHz, 42 - TDD 3.4 GHz"
+4G-E-UTRAN-MIoT-LTE-M frequencies:,"18 - 800 MHz Lower, 26 - 800 MHz iDEN"
+4G-E-UTRAN-MIoT-NB-IoT frequencies:,Unsupported
+MIoT-NB-IoT deployment modes:,Unsupported
+5G NR frequencies:,"n3 - FDD 1800, n28 - FDD 700, n77 - TDD 3700, n78 - TDD 3500, n257 - 28 GHz"
+Presentation of country initials and MNN:,KDDI
+Abbreviated MNN:,JPNKS

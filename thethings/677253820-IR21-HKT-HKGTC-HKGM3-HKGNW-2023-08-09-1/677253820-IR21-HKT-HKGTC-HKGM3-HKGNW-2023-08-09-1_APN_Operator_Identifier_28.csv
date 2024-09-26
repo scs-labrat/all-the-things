@@ -1,0 +1,5 @@
+List of APN Operator Identifiers,Column_2,Column_3
+APN Operator Identifier,Description,Example
+mnc000.mcc454.gprs,,
+mnc010.mcc454.gprs,,
+apn.epc.mnc000.mcc454.3gppnetwork.org,,

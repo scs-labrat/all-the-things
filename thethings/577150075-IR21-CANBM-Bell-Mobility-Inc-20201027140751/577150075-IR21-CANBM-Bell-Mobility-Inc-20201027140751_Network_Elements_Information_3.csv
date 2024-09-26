@@ -1,0 +1,51 @@
+TADIG Code,Section ID,Section,Date,Description
+CANBM,17,IP Roaming/Networking Information,2017-09-25,"Added IP ranges 184.151.172.96/27 and 184.151.173.96/27 to IP
+Backbone list"
+CANMM,4,Routing Information,2017-09-05,adding network attributes
+CANMM,4,Routing Information,2017-09-05,Updated Routing info
+CANMM,5,International SCCP Gateway,2017-09-05,Adding SCCP info
+CANMM,5,International SCCP Gateway,2017-09-05,updated
+CANMM,7,SCCP Protocol,2017-09-05,adding info
+CANMM,8,Subscriber Identity Authentication,2017-09-05,Updated info
+CANMM,10,MAP,2017-09-05,added info
+CANMM,13,Network Elements Information,2017-09-05,Added Network Elements
+CANMM,16,Packet Data Service Information,2017-09-05,updated info
+CANMM,17,IP Roaming/Networking Information,2017-09-05,Updated IP info
+CANMM,20,LTE Roaming Information,2017-09-05,Updated LTE Info
+CANMM,20,LTE Roaming Information,2017-09-05,updated
+CANMM,21,Contact Information,2017-09-05,Updated distirbution info
+CANMM,21,Contact Information,2017-09-05,Updated Contact info
+CANMM,21,Contact Information,2017-09-05,Updated Contact info
+CANMM,21,Contact Information,2017-09-05,Updated Contact info
+CANBM,17,IP Roaming/Networking Information,2017-05-17,Added IP Range 184.151.173.0/27 to IP Backbone list
+CANBM,5,International SCCP Gateway,2017-02-09,Adding a second SCCP connection point
+CANBM,5,International SCCP Gateway,2017-02-09,Updated SCCP vendor list
+CANBM,5,International SCCP Gateway,2017-02-09,Edited SCCP info
+CANBM,20,LTE Roaming Information,2017-02-09,Added a Second IPX connection point (BICS)
+CANBM,13,Network Elements Information,2017-01-20,Added new HLR nodes 16473842016-2018
+CANBM,17,IP Roaming/Networking Information,2016-12-01,Added an IP Range for PGW use 184.151.172.0/27
+CANBM,13,Network Elements Information,2016-10-28,Added new 7 MSC and 7 SGSN GT Nodes
+CANBM,17,IP Roaming/Networking Information,2016-10-28,"Removed no longer used IP's 131.166.254.8/29 and
+131.166.254.16/29"
+CANBM,13,Network Elements Information,2016-09-28,Adjusted UTC time to -05:00
+CANBM,13,Network Elements Information,2016-09-27,"Addition of HLR EIR GT's 16473840062-0066, 16473840071,
+14382760061-0066"
+CANBM,20,LTE Roaming Information,2016-09-27,Updated LTE Info sheet
+CANBM,13,Network Elements Information,2016-09-12,Added SGSN 16473831004
+CANBM,20,LTE Roaming Information,2016-08-25,Updated primary and secondary IP addresses for DEA FQDN
+CANBM,17,IP Roaming/Networking Information,2016-05-13,"Removed, unused IP ranges 184.151.126.112/29,
+207.236.223.8/29, 207.236.105.8/29, 207.236.105.232/29"
+CANBM,4,Routing Information,2016-05-12,"Removed now inactive MSRN ranges 16043483000-5999 and
+16473843000-5999"
+CANBM,13,Network Elements Information,2016-05-12,"Added 14382760003, removed 16473840001 and 16043480001"
+CANBM,21,Contact Information,2016-05-12,Troubleshooting contacts updated
+CANBM,21,Contact Information,2016-05-12,Distribution Updated
+CANBM,21,Contact Information,2016-05-12,Updating contacts
+CANBM,21,Contact Information,2016-05-12,Updated Escalation Contact
+CANBM,13,Network Elements Information,2016-01-15,Addition of new SMSC GT 14382762040
+CANBM,4,Routing Information,2015-12-04,"Removed old inactive MSRN ranges 1902718, 1403408 and
+1438276 all with range 3000-5999"
+CANBM,13,Network Elements Information,2015-12-04,"Removal of no longer active MSC GT's 14382760001 and
+14034080001 effective immediately"
+CANBM,13,Network Elements Information,2015-12-04,Update Software loads
+CANBM,13,Network Elements Information,2015-11-11,+19027180001 GT was removed from our network Aug 31

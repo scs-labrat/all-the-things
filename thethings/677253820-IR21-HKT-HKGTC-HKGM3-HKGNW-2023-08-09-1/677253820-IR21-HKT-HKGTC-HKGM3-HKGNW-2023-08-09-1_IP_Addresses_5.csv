@@ -1,0 +1,58 @@
+TADIG Code,Section ID,Section,Date,Description
+HKGM3,4,Routing Information,2018-02-13,"Remove the wording HKGMC/454 16 and 45416 from segment ""a""
+of ""Additional Information [1] GENERAL INFORMATION""."
+HKGM3,4,Routing Information,2018-02-13,"Remove 45416 from ""segment ""c"" of ""Additional Information - [2]
+PACKET DATA SERVICS INFORMATION""."
+HKGM3,4,Routing Information,2018-02-13,"HKT has migrated all customers with HKGMC/45416 IMSI level
+to either HKGTC/45400 or HKGM3/45419. HKGMC/45416 will
+no longer be used for our outbound roaming, effective on 01st
+January 2018."
+HKGM3,4,Routing Information,2018-02-13,"Remove ""16 (TADIG Code: HKGMC)"" from ""Networks"" of
+Additional Information"" for MCC=454 MNC=16."
+HKGTC,13,Network Elements Information,2018-02-12,"Add two new SMSC GT addresses 85290240715
+and85290240731."
+HKGTC,17,GRX/IPX routing for data roaming,2018-02-12,"Remove 454/16 from of ""RAI/ULI Additional MCC/MNC List""."
+HKGTC,17,GRX/IPX routing for data roaming,2018-02-12,"Remove IP 203.210.10.129 of ""List of PMN authoritative/local
+caching DNS server IP addresses and names""."
+HKGTC,17,GRX/IPX routing for data roaming,2018-02-12,"Re-arrange the sequence of ""List of PMN authoritative/local
+caching DNS server IP addresses and names""."
+HKGM3,13,Network Elements Information,2018-02-12,"Add two new SMSC GT addresses 85290240715 and
+85290240731."
+HKGM3,16,Packet Data Service Information,2018-02-12,"Delete ""mnc016.mcc454.gprs & For 2G subscriber"" from ""List of
+APN Operator Identifiers""."
+HKGM3,16,Packet Data Service Information,2018-02-12,"Delete the obsoleted APN from ""APN"" WEB List"", only remain the
+APN pccw/blackberry.net/internet/mobile."
+HKGM3,16,Packet Data Service Information,2018-02-12,"Delete obsoleted APN from ""APN WAP List"", remain APN pccw/
+mobile."
+HKGM3,16,Packet Data Service Information,2018-02-12,"Delete obsoleted APN from ""APN MMS List"", remain APN pccw/
+mobile."
+HKGM3,17,GRX/IPX routing for data roaming,2018-02-12,"Remove 454/16 from of ""RAI/ULI Additional MCC/MNC List""."
+HKGM3,17,GRX/IPX routing for data roaming,2018-02-12,"Remove IP/name 202.4.210.32/
+YTG-4GGnDNS-2.epc.MNC019.MCC454.3gppnetwork.org,
+202.4.210.32/YTG-4GGnDNS-2.MNC019.MCC454.GPRS,
+203.210.10.129/ZDNS-Ex1. mnc016.mcc454.gprs of ""List of PMN
+authoritative/local caching DNS server IP addresses and names""."
+HKGM3,17,GRX/IPX routing for data roaming,2018-02-12,"Remove IP/name 202.4.210.32/
+YTG-4GGnDNS-2.MNC016.MCC454.GPRS, 203.210.10.129/
+ZDNS-Ex1.epc.mnc019.mcc454.3gppnetwork.org, 203.210.11.84/
+TPC-DNS11.mnc016.mcc454.gprs, of ""List of PMN authoritative/
+local caching DNS server IP addresses and names""."
+HKGM3,17,GRX/IPX routing for data roaming,2018-02-12,"Remove IP/name 203.210.11.85/TPC-
+DNS12.mnc016.mcc454.gprs, 203.210.11.68/KSG-
+DNS13.mnc016.mcc454.gprs, 203.210.11.69/KSG-
+DNS14.mnc016.mcc454.gprs of ""List of PMN authoritative/local
+caching DNS server IP addresses and names""."
+HKGM3,17,GRX/IPX routing for data roaming,2018-02-12,"Re-arrange the sequence of ""List of PMN authoritative/local
+caching DNS server IP addresses and names""."
+HKGTC,4,Routing Information,2017-09-27,Add New MSISDN Number range 852 4647
+HKGTC,4,Routing Information,2017-09-27,Add new MNP number ranges 852 4x/7x/8x
+HKGTC,4,Routing Information,2017-09-27,"Add MSISDN 852 (5140-5144), 852 520, 852 532, 852
+(5702-5703)"
+HKGTC,13,Network Elements Information,2017-09-27,"Delete PGW/SGW/SGSN-2G+3G IP 110.4.26.160/28 and GGSN
+IP 115.255.8.0/25, 131.166.254.0/29"
+HKGTC,17,GRX/IPX routing for data roaming,2017-09-27,"Delete the non advertising IP_address 110.4.26.160/28,
+115.255.8.0/25, 131.166.254.0/29."
+HKGTC,17,GRX/IPX routing for data roaming,2017-09-27,"PCCWG (merged its IPX domains with SAP’s domains into a
+single domain and shares the same AS with SAP since Jun2017)."
+HKGM3,4,Routing Information,2017-09-27,Add new MSISDN range 852 4647
+HKGM3,4,Routing Information,2017-09-27,Add new MNP number ranges 852 4x/7x/8x

@@ -1,0 +1,8 @@
+Node type,GT address / Address range,IP address / Address range,"IPv6 address /
+Address range",Vendor info,UTC offset
+MSC,994 60 0000500 / 0000500,,,,+04:00
+HSS,994 60 0000600 / 0000600,,,,+04:00
+SMSC,994 60 0509000 / 0509000,,,,+04:00
+SCP,994 60 0000800 / 0000802,,,,+04:00
+MSC,994 60 0000333 / 0000333,,,,+00:00
+HSS,994 60 0000666 / 0000666,,,,+00:00

@@ -1,0 +1,57 @@
+TADIG Code,Section ID,Section,Date,Description
+HKGM3,17,GRX/IPX routing for data roaming,2017-09-27,"Delete the non advertising IP_address 110.4.26.160/28,
+115.255.8.0/25, 131.166.254.0/29"
+HKGM3,17,GRX/IPX routing for data roaming,2017-09-27,"PCCWG (merged its IPX domains with SAP’s domains into a
+single domain and shares the same AS with SAP since Jun2017)."
+HKGTC,21,Contact Information,2017-09-25,Contact List updated. Remove the contact of Vivian Li.
+HKGM3,21,Contact Information,2017-09-25,Contact List updated. Remove the contact of Vivian Li.
+HKGTC,4,Routing Information,2017-05-31,Add back the missing HKGTC MSISDN 852923
+HKGTC,4,Routing Information,2017-05-31,Modify the MNP Range same as HKGM3
+HKGTC,4,Routing Information,2017-05-31,"Modify the ""Additional Information:PLMN used in Radio Broadcast:
+(essential if HPLMN analyze them during CAMEL PSI, IDP)"""
+HKGM3,4,Routing Information,2017-05-31,"Modify the ""Additional Information:PLMN used in Radio Broadcast:
+(essential if HPLMN analyze them during CAMEL PSI, IDP)"""
+HKGM3,17,GRX/IPX routing for data roaming,2017-05-31,"Remove the ""IP Address 202.4.210.31 and DNS Name=
+YTG-4GGnDNS-1.epc.MNC019.MCC454.3gppnetwork.org""
+of the ""List of PMN authoritative DNS server IP addresses and
+name"" and ""List of PMN local caching DNS server IP address and
+names"""
+HKGTC,4,Routing Information,2017-02-07,Add back the missing HKGTC MSISDN 852933
+HKGTC,13,Network Elements Information,2017-02-03,"Add SMSC GT Address 85290240712, 852902407(23-26) and
+SCP GT address 8529024071(3-4)"
+HKGTC,17,GRX/IPX routing for data roaming,2017-02-03,"Add authoritative and local cashing DNS server IP 203.210.11.68
+and 203.210.11.69."
+HKGTC,18,MMS Interworking Information,2017-02-03,"Add a new MMSC with same Domain name ""mmsc.hkcsl.com""
+and new IP Addresses (for One-MMSC migration)"
+HKGM3,13,Network Elements Information,2017-02-03,"Add SMSC GT Address 85290240712, 852902407(23-26) and
+SCP GT address 8529024071(3-4)"
+HKGM3,17,GRX/IPX routing for data roaming,2017-02-03,"Add authoritative and local cashing DNS server IP 203.210.11.68
+and 203.210.11.69"
+HKGM3,18,MMS Interworking Information,2017-02-03,"Add a new MMSC with Domain name ""mmsc.hkcsl.com"" and new
+IP Addresses"
+HKGTC,21,Contact Information,2016-11-30,"update the email address of IR21 distribution and contact person
+of TADIG"
+HKGM3,21,Contact Information,2016-11-30,Update the email address of IR21 distribution
+HKGTC,4,Routing Information,2016-11-24,Add new MNP range 852 5702 xxxx to 852 5703 xxxx
+HKGTC,17,GRX/IPX routing for data roaming,2016-11-24,"Add authoritative/local caching DNS service IP 203.210.11.84 and
+203.210.11.85. Remove GRX provider ""SAP""."
+HKGTC,21,Contact Information,2016-11-24,Contact list update
+HKGM3,17,GRX/IPX routing for data roaming,2016-11-24,"Add authoritative/local caching DNS server IP 203.210.11.84 and
+203.210.11.85. Remove GRX provider ""SAP""."
+HKGM3,21,Contact Information,2016-11-24,Contact list update
+HKGTC,20,LTE Roaming Information,2016-10-14,"After the ""maintenance window"" of RAEX Tools on 13-Oct-2016
+17:00 to 19:00 BST, we can choose ""Unsupport"" for 2G/3G LTE
+Roaming Agreement Scenario 5 without ""validate error"", so, we
+change back to ""Unsupport"" for bug error."
+HKGM3,20,LTE Roaming Information,2016-10-14,"After the ""maintenance window"" of RAEX Tools on 13-Oct-2016
+17:00 to 19:00 BST, we can choose ""Unsupport"" for 2G/3G LTE
+Roaming Agreement Scenario 5 without ""validate error"", so, we
+change back to ""Unsupport"" for bug error."
+HKGTC,4,Routing Information,2016-10-13,Add new MNP range 852 5720 - 852 5729
+HKGTC,4,Routing Information,2016-10-13,Sort the E.164 number ranges for number portability
+HKGTC,20,LTE Roaming Information,2016-10-13,"According to IR 88 V 14.0, updated 2G/3G LTE Roaming
+Agreement Scenario 5 to ""Support"""
+HKGM3,20,LTE Roaming Information,2016-10-13,"According to IR 88 V 14.0, updated 2G/3G LTE Roaming
+Agreement Scenario 5 to ""Support"""
+HKGTC,17,GRX/IPX routing for data roaming,2016-08-25,No change
+HKGM3,17,GRX/IPX routing for data roaming,2016-08-25,No change

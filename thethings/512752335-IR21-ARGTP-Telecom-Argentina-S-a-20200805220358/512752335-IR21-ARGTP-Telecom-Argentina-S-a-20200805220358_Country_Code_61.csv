@@ -1,0 +1,14 @@
+Additional Information
+Example: +54 11 4706 9238
+-
+REQUIREMENT FOR SMS INTERWORKING
+According to the dialing modality in use today for calling CPP NDC ranges of Argentina from
+"abroad (see above), which require including digit 9 after country code (54), we ask you"
+please to analyze the following implementation in your SMSCs.
+In order to do not open our NDCs in your STPs twice (with and without digit 9 after
+"country code), perform +549 to +54 translation at your SMSCs."
+-
+MSISDN
+The MSISDN range complies with the GSM 03.03 and the CCITT E.164 and has a fixed length of 12 digits.
+MSISDN (E.164) = CC(E.164) + NDC(E.164) + SN(E.164)
+-

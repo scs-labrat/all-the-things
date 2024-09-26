@@ -1,0 +1,8 @@
+TADIG Code,Section ID,Section,Date,Description
+SPM03,16,Packet Data Service Information,2022-06-03,APN LTE added
+SPM03,9,Test Numbers Information,2022-03-28,adding test phone
+SPM01,13,Network Elements Information,2022-03-24,SMSC update
+SPM01,4,Routing Information,2022-01-13,routing information shortened for standard 255 char
+SPM03,20,LTE Roaming Information,2021-05-20,Edit asked by Orange
+SPM03,4,Routing Information,2021-04-13,"New LTE (VoLTE only) network added to SPM TELECOM. NO
+GPRS. NO CSFB"

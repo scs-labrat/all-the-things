@@ -1,0 +1,16 @@
+TADIG Code,Section ID,Section Name
+SPM03,5,International SCCP Gateway
+SPM03,6,Domestic SCCP Gateway
+SPM03,7,SCCP Protocol available at PMN for connection for International SS7 Roaming
+SPM03,8,Subscriber Identity Authentication
+SPM03,10,Mobile Application Part (MAP) Section
+SPM03,11,MAP Optimal Routing Section
+SPM03,12,MAP Inter Operator SMS Enhancement
+SPM03,14,USSD Information
+SPM03,15,CAMEL Information
+SPM03,18,MMS Interworking Information
+SPM03,19,WLAN Information
+SPM03,22,Hosted Networks
+SPM03,23,M2M Roaming Information
+SPM03,24,MVNO Information
+SPM03,27,LPWA Roaming Information Section

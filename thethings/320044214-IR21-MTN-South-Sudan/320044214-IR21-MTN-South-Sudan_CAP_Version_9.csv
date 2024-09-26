@@ -1,0 +1,45 @@
+CAMEL Information
+GSMSSF/MSC:
+"Date of planned support
+CAP (CAMEL Application Part) version22:
+Yes No (if any)"
+CAP version 1  
+CAP version 2  
+CAP version 3  
+CAP version 4  
+"Date of planned support
+Partial implementations supported in CAP version 423:
+Yes No (if any)"
+CAMEL Phase 4 CSIs:
+O-CSI  
+D-CSI  
+VT-CSI  
+MT-SMS-CSI  
+Functionalities:
+Initiate Call Attempt  
+Split Leg  
+Move Leg  
+Disconnect Leg  
+Entity Released  
+DFC With Argument  
+Play Tone  
+DTMF Mid Call  
+Charging Indicator  
+Alerting DP  
+Location At Alerting  
+Change Of Position DP  
+OR Interactions  
+Warning Tone Enhancements  
+CF Enhancements  
+""
+GPRSSSF/SGSN:
+"Date of planned support
+CAP (CAMEL Application Part) version24:
+Yes No (if any)"
+CAP version 3  
+CAP version 4  
+"Date of planned support
+Partial implementations supported in CAP version 425:
+Yes No (if any)"
+CAMEL Phase 4 CSIs:
+MT-SMS-CSI  

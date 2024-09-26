@@ -1,0 +1,52 @@
+TADIG Code,Section ID,Section,Date,Description
+ARGTP,4,Routing Information,2014-07-08,New MSRN
+ARGTP,4,Routing Information,2014-07-08,new mww
+ARGTP,4,Routing Information,2014-07-08,New Ranges MSRN
+ARGTP,17,IP Roaming/Networking Information,2014-07-02,New GGSN Ranges
+ARGTP,4,Routing Information,2014-06-13,dd new MSRN Ranges
+ARGTP,17,IP Roaming/Networking Information,2014-06-13,MODIFY /29 BY 190.225.250.128/27
+ARGTP,13,Network Elements Information,2014-06-11,"ADD NEW NODES SMSC, HLR AND MSC/VLR"
+ARGTP,4,Routing Information,2014-06-04,pepeasdfasdf
+ARGTP,13,Network Elements Information,2014-06-02,Node ID CLI1BC & DAR2BC
+ARGTP,13,Network Elements Information,2014-06-02,New nodes MSC/VLR and HLR
+ARGTP,13,Network Elements Information,2014-05-14,ADD GT in SGSN
+ARGTP,13,Network Elements Information,2014-04-22,modify UTC Time
+ARGTP,13,Network Elements Information,2014-04-22,Updating new SGSN nodes and SMSC
+ARGTP,17,IP Roaming/Networking Information,2014-04-22,"New DNS bring in service on 2014-05-08 (190.224.101.33
+&190.224.101.34)"
+ARGTP,21,Contact Information,2014-04-22,Add SIM CARD handling
+ARGTP,21,Contact Information,2014-04-22,New Ditribution Email Address
+ARGTP,21,Contact Information,2014-04-22,ADD contact IREG Coordinator
+ARGTP,21,Contact Information,2014-04-22,IREG Coordinator
+ARGVO,21,Contact Information,2014-04-22,New Distribution List
+ARGVO,21,Contact Information,2014-04-22,Add IREG Coordinator
+ARGTP,17,IP Roaming/Networking Information,2013-12-17,Resumarize IP /29. Was detected an error in IR21 version 59
+ARGTP,17,IP Roaming/Networking Information,2013-12-05,Modify mask of IP /32 to /29
+ARGVO,9,Test Numbers Information,2013-12-05,Delete TADIG code
+ARGTP,17,IP Roaming/Networking Information,2013-10-24,IP Inter PLNM - modify mask
+ARGTP,17,IP Roaming/Networking Information,2013-10-21,IP Interworking chage
+ARGTP,4,Routing Information,2013-05-09,CCITT E.164 Number series: MSRN Number Ranges update
+ARGTP,21,Contact Information,2013-05-09,IREG Tests: Contacts update
+ARGVO,21,Contact Information,2013-05-09,IREG Tests: Contacts update
+ARGVO,4,Routing Information,2012-12-07,E.212 update: new IMSI range 72236 (MCC:722 MNC:36)
+ARGTP,4,Routing Information,2012-11-10,"E.164 new number ranges update: 543704500000 to
+543704619999"
+ARGTP,4,Routing Information,2012-09-25,"E.164 new number ranges update: 541124500000 to
+541126299999"
+ARGTP,13,Network Elements Information,2012-09-25,"New network node Global Titles: MSC/VLR: 5434990245, SGSN:
+541151740065, 541151740066, 541151740067, 541151740068,
+5434990265, 543490266, 5434990267 and 5434990268"
+ARGVO,4,Routing Information,2012-09-25,No changes
+ARGVO,13,Network Elements Information,2012-09-25,No changes
+ARGVO,21,Contact Information,2012-09-25,New contacts update
+ARGTP,21,Contact Information,2012-09-21,New contacts update
+ARGTP,4,Routing Information,2012-04-19,"ROUTING INFORMATION CCITT E164 Number series and
+MSRN Number Ranges updates Old NDCs->New NDCs 3833-
+>3834, 3822->3804, 3461->3364, 2293->2494, 2362->2364,
+3488->3484, 2322->2304, 3717->3704"
+ARGTP,13,Network Elements Information,2012-04-19,"New network node Global Titles: MSC/VLR: RES1MSS
+541151740078, MTD1MSS 541151740046, ANA1MSS
+541151740045"
+ARGTP,13,Network Elements Information,2012-04-19,"New network node Global Titles: MSC/VLR: RES1MSS
+5434990278, MTD1MSS 5434990246, ANA1MSS 5434990245"
+ARGTP,13,Network Elements Information,2012-04-19,New network node Global Titles: HLR: CLI1HLR 541151740047

@@ -1,0 +1,11 @@
+TADIG Code,Section ID,Section Name
+PANCL,6,Domestic SCCP Gateway
+PANCL,7,SCCP Protocol available at PMN for connection for International SS7 Roaming
+PANCL,9,Test Numbers Information
+PANCL,14,USSD Information
+PANCL,18,MMS Interworking Information
+PANCL,19,WLAN Information
+PANCL,22,Hosted Networks
+PANCL,23,M2M Roaming Information
+PANCL,24,MVNO Information
+PANCL,27,LPWA Roaming Information Section

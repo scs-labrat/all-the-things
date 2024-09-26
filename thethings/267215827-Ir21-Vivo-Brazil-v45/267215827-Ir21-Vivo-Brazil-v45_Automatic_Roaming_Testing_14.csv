@@ -1,0 +1,12 @@
+"AUTOMATIC ROAMING TESTING VIVO (MNC 11)
+Entity Subscriber-Number
+Automatic Answering (MSISDN) Location
+CirCuit (AAC)
+1. AAC + 55 21 7190 1189 Rio de Janeiro – RJ
+2. AAC + 55 22 9841 1199 Sul Fluminense – RJ
+3. AAC + 55 24 9836 1199 Norte Fluminense – RJ",Column_2,Column_3
+,Subscriber-Number,Location
+,(MSISDN),
+,+ 55 21 7190 1189,Rio de Janeiro – RJ
+,+ 55 22 9841 1199,Sul Fluminense – RJ
+,+ 55 24 9836 1199,Norte Fluminense – RJ

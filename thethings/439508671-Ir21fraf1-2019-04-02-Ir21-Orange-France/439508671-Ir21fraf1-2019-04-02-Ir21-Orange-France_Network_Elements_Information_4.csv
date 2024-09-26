@@ -1,0 +1,36 @@
+TADIG Code,Section ID,Section,Date,Description
+FRAF1,21,Contact Information,2012-09-19,Remove 24/7 troubleshooting contact
+FRAF1,4,Routing Information,2012-04-11,Remove Short Code Translation 898
+FRAF1,4,Routing Information,2012-04-11,Add new MSISDN range 336444 to 336446
+FRAF1,13,Network Elements Information,2012-03-20,Add new MMSC 33689003448
+FRAF1,13,Network Elements Information,2012-03-20,Add new MMSC range 3368900351X and 3368900352X
+FRAF1,16,Packet Data Service Information,2012-02-01,"In our GGSN GTPv0 is supported only if the PDP is initiated in
+GTPv0 (Create PDP Context). We do not support Update PDP
+Context performed in GTPv0 if the PDP was previously initiated in
+GTPv1."
+FRAF1,21,Contact Information,2012-02-01,"New Operation Manager, Troubleshooting & IREG contact number"
+FRAF1,13,Network Elements Information,2012-01-31,GGSN SW version Update
+FRAF1,13,Network Elements Information,2012-01-31,Add new MMSC range 33689003446 to 33689003447
+FRAF1,4,Routing Information,2011-11-07,Add new MSISDN range 337702
+FRAF1,4,Routing Information,2011-11-07,Add new MSISDN range 3375061 to 3375069
+FRAF1,4,Routing Information,2011-10-05,Number portability and NDC update
+FRAF1,4,Routing Information,2011-10-05,Add SN Range Start and SN Range Stop for all NDC ranges
+FRAF1,4,Routing Information,2011-10-05,Add Additional Information about SMS-IW with Monacell (Monaco)
+FRAF1,5,International SCCP Gateway,2011-10-05,Fixed DPC not present in SCCP Carrier List
+FRAF1,13,Network Elements Information,2011-10-05,"Add new SMSC range 3368900672 to 3368900675 (Voice Mail
+SMS Notification)"
+FRAF1,13,Network Elements Information,2011-10-05,Add new SGSN range 3368900339X
+FRAF1,13,Network Elements Information,2011-10-05,BSS and UTRAN network elements are no longer provided
+FRAF1,13,Network Elements Information,2011-10-05,SGSN SW version Update
+FRAF1,15,CAMEL Information,2011-10-05,CAMEL Functionality Information are no longer provided
+FRAF1,17,IP Roaming/Networking Information,2011-10-05,"Additional RAI MCC/MNC used for national roaming called White
+Zone"
+FRAF1,21,Contact Information,2011-10-05,New mail domain @orange.com instead of @orange-ftgroup.com
+FRAF1,21,Contact Information,2011-10-05,"New Operation Manager, Ireg Manager, Ireg expert"
+FRAF1,4,Routing Information,2011-05-11,"Add new MSISDN range 3364956 to 33664959, 3364992 to
+33664993, 337701"
+FRAF1,4,Routing Information,2011-04-02,"Add new MSISDN ranges 33 7872 to 33 7879, 33 7880 to 33 7885"
+FRAF1,21,Contact Information,2011-04-01,Update of Troubleshooting contact with RAEX
+FRAF1,10,MAP,2011-03-08,MAP version Update and comments for UMTS and GPRS
+FRAF1,4,Routing Information,2010-12-21,"Add new MSISDN ranges 33 649 51 to 33 649 55, 33 6498, 33
+7700"

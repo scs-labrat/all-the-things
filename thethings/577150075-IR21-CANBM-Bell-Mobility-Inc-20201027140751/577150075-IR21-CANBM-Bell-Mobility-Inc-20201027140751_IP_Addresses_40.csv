@@ -1,0 +1,21 @@
+Date,Description
+2020-10-26,Updated FQDN Information
+2020-10-26,Updated FQDN Information
+2020-10-26,Updated FQDN Information
+2020-10-20,Updated Diameter Primary FQDN
+2020-02-25,"Added Two new Diameter Agents pairs for Primary and secondary. 69.158.233.20/69.158.233.28 and
+184.151.183.228/184.151.183.236"
+2019-01-21,Modifiied LTE EPC realm info
+2019-01-21,Modified LTE EPC Realm
+2017-02-09,Added a Second IPX connection point (BICS)
+2016-09-27,Updated LTE Info sheet
+2016-08-25,Updated primary and secondary IP addresses for DEA FQDN
+2015-11-04,"Updated VPMN 3GLTE Service supporting Scenario 2..keep in mind Bell Canada VPMN SGSN will not support gateway
+selection using UE-Capability."
+2015-08-27,Updated EPC Realm table to include epc in front of REALM
+2015-06-01,Updated FQDN and EPC Realm...removing leading EPC
+2015-04-24,Updated LTE info with EPC and FQDN
+2015-01-13,Updated LTE Info area of support
+2014-11-28,Added a list of additional Diameter Peers for each MME Hostnames (Cards 1-12)
+2014-03-12,Added a list of additional Diameter Peers for each MME (Cards 03-12)
+2013-12-13,LTE QOS profile updated

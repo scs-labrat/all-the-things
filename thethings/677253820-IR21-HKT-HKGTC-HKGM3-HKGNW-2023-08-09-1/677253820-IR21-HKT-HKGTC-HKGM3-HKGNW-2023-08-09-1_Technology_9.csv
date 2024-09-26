@@ -1,0 +1,11 @@
+Technology:,Frequency list:,Coverage:
+2G-GSM,"GSM 900, DCS 1800",
+3G-UTRA/FDD,"1 - IMT 2.1 GHz, 8 - 900 MHz",
+3G-UTRA/TDD,Unsupported,
+4G-E-UTRAN,"8 - 900 MHz, 3 - DCS 1800, 7 - 2.6 GHz",
+4G-E-UTRAN-MIoT-LTE-M,Unsupported,
+4G-E-UTRAN-MIoT-NB-IoT,Unsupported,
+MIoT-NB-IoT deployment mode,Unsupported,
+EN-DC band combinations,"5G-NSA: n1 (with LTE900 anchor ctrl), n78 (with LTE1800 anchor ctrl), n79
+(with LTE1800 anchor ctrl), n257",
+5G NR,"n1 - FDD 2100, n78 - TDD 3500, n79 - TDD 4700, n257 - 28 GHz",

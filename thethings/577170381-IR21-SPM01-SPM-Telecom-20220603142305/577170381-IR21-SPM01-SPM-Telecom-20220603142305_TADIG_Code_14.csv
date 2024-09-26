@@ -1,0 +1,12 @@
+TADIG Code,Section ID,Section Name
+SPM01,6,Domestic SCCP Gateway
+SPM01,16,Packet Data Services Information
+SPM01,17,IP-Roaming and IP-Interworking Information
+SPM01,18,MMS Interworking Information
+SPM01,19,WLAN Information
+SPM01,20,Roaming in Long Term Evolution
+SPM01,22,Hosted Networks
+SPM01,23,M2M Roaming Information
+SPM01,24,MVNO Information
+SPM01,26,VoLTE Roaming Information Section
+SPM01,27,LPWA Roaming Information Section

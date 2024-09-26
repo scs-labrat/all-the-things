@@ -1,0 +1,14 @@
+GPRS Information,Column_2
+APN Operator Identifier:,mnc005.mcc515.gprs
+DNS IP address (primary):,"202.138.159.49
+202.138.159.227"
+DNS IP address (secondary):,202.138.159.50
+Inter PLMN GSN Backbone IP address range(s):,"202.138.159.44/30, 202.138.159.48/30,
+202.138.158.184/29, 202.138.158.192/29,
+115.146.153.0 /27, 115.146.153.32 /27,
+115.146.153.64 /27, 202.138.159.227/32"
+"Autonomous System Number:
+GRX Provider:","64774
+Aicent"
+CAMEL Information,
+CAP (CAMEL Application Part) version:,Camel Phase 2 available

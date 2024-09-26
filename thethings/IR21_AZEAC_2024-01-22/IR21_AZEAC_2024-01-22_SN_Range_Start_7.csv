@@ -1,0 +1,17 @@
+"CCITT E.164
+Number series","Country
+Code (CC)","National
+Destination
+Code (NDC)",SN Range Start,SN Range Stop,"Primary
+International
+DPC","Secondary
+International
+DPC","Network
+owner",Location
+MSISDN number ranges (s),,,,,,,,
+,994,50,1000000,7999999,,,MNO,
+,994,50,8200000,8999999,,,MNO,
+,994,50,9600000,9999999,,,MNO,
+,994,51,1000000,9999999,,,MNO,
+,994,50,8000000,8099999,,,MNO,
+,994,10,0000000,9999999,,,MNO,

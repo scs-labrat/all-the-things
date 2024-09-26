@@ -1,0 +1,4 @@
+List of APN Operator Identifiers,Column_2,Column_3
+APN Operator Identifier,Description,Example
+mnc088.mcc539.gprs,Subscribed or wildcard,
+mnc088.mcc539.gprs.3gppnetwork.org,,

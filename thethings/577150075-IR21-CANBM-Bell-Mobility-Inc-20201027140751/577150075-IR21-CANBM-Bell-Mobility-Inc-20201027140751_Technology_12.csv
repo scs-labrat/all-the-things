@@ -1,0 +1,19 @@
+Additional Information
+ROAMING PARTNER STEERING METHOD TO BELL/TELUS COMMON NETWORK:
+"OTA Steering - Populate 302 610 (Bell PLMN), 302 220 (TELUS) & 302 880 (Common PLMN). If you can send only one PLMN, populate 302 880"
+"SS7 Steering - Allow registration on Bell Network GT Ranges: 1 403408, 1 647383, 1 647384, 1 438276, 1 604348, 1 902718."
+"Allow registrations on TELUS Network GT Ranges 1 647580, 1 6472137, 16472138, 1 6472139, 1438580, 1 587580, 1587588, 1778580, 1647850"
+Hybrid Steering (OTA & SS7) - Populate 302 610 (Bell PLMN) 302 220 (TELUS PLMN) & 302 880 (Common PLMN)
+- TRAFFIC STEERING TOWARDS BELL/TELUS COMMON NETWORK -
+"Bell ,TELUS and Sasktel operates a common Radio Access Network (RAN) based on Multi-Operator Core Network (MOCN) as defined in 3GPP TS
+23.251."
+"Network Technology/Frequencies 3G/HSPA+= 850/1900 LTE and LTE Advance = Bands 2 (1900), 4 (1700/2100), 5 (850) , 7 (2600) , 12/13/29 (700),
+25 (1900)"
+"The network broadcasts The common PLMN (302 880), Bell private PLMN (302 610), TELUS private PLMN (302 220), and Sasktel PLMN 302780"
+- Non-MOCN capable devices will only register on the common PLMN (302 880)
+- MOCN capable devices will register on either Bell or TELUS private PLMN (302 610 & 302 220)
+"Roaming partners must populate PLMNs 302 610, 302 220 & 302 880 in their preferred PLMN list in the USIM."
+All TAP records on Bell core will be produced using Bell TADIG (CANBM) regardless of whether the device registered on the common network
+(302 880) or Bell private network (302 610).TAP records on TELUS core will be produced using TELUS TADIG (CANTS).
+A more detailed steering document is available upon request. Please contact RoamingPerformance@bell.ca to request a copy.
+Change to International SMS for MO and MT. All messages to be routed to Bell Mobility via Syniverse Technologies effective Oct 29 2012

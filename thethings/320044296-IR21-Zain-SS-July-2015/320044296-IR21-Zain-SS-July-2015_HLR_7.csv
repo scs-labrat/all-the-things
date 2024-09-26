@@ -1,0 +1,16 @@
+gprsNotifyContext,Column_2,Column_3,Column_4,Column_5,Column_6
+gprsLocationInfoRetrieval,,,,,
+failureReport,,,,,
+secureTransportHandling,,,,,
+Optimal Routeing of mobile-to-mobile calls,,,,,
+Application Context Name,Current Version,,,Comments,
+,(V)MSC,GMSC,HLR,,
+CallControlTransfer,,,N/A,,
+LocationInfoRetrieval,N/A,,,,
+Inter-Operator SMS Enhancement,,,,,
+Application Context Name,Current Version,,,Comments,
+,"SMS-
+IWMSC","SMS-
+GMSC",HLR,,
+shortMsgGateway,N/A,V3,,,
+shortMsgAlert,V3,N/A,,,

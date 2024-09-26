@@ -1,0 +1,13 @@
+TADIG Code,Section ID,Section Name
+JPNKD,6,Domestic SCCP Gateway
+JPNKD,11,MAP Optimal Routing Section
+JPNKD,12,MAP Inter Operator SMS Enhancement
+JPNKD,14,USSD Information
+JPNKD,15,CAMEL Information
+JPNKD,18,MMS Interworking Information
+JPNKD,19,WLAN Information
+JPNKD,22,Hosted Networks
+JPNKD,23,M2M Roaming Information
+JPNKD,24,MVNO Information
+JPNKD,26,VoLTE Roaming Information Section
+JPNKD,27,LPWA Roaming Information Section

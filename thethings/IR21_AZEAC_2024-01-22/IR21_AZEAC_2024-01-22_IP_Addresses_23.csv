@@ -1,0 +1,4 @@
+List of PMN authoritative DNS server IP addresses and names,Column_2,Column_3,Column_4,Column_5
+IP address,IPv6 address,DNS Name,Priority,Network owner
+,,edns1.mnc001.mcc400.gprs,1,
+,,edns2.mnc001.mcc400.gprs,1,

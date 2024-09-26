@@ -1,0 +1,51 @@
+TADIG Code,Section ID,Section,Date,Description
+FRAF1,20,LTE Roaming Information,2014-11-24,Scenarios updated
+FRAF1,13,Network Elements Information,2014-10-20,Add new SGW and PGW
+FRAF1,20,LTE Roaming Information,2014-10-20,"Add New MME Hostnames and delete QCI values 6,7 and 9 from
+LTE information"
+FRAF1,4,Routing Information,2014-07-15,Add new NDC
+FRAF1,13,Network Elements Information,2014-07-15,Add new SMSC
+FRAF1,13,Network Elements Information,2014-07-01,"Add new SGSN 33689007106, 33689007107, 33689007108"
+AAZOR,4,Routing Information,2014-06-17,Modify MSISDN
+FRAF1,4,Routing Information,2014-06-16,Modify the Voice Mail number
+FRAF1,13,Network Elements Information,2014-06-16,Add new PGW and GGSN
+FRAF1,16,Packet Data Service Information,2014-06-16,"WARNING : Evolved ARP , in the 2G/3G QOS profiles, is not
+applicable on this case ! Don't take into account the value :
+Evolved ARP =1"
+FRAF1,21,Contact Information,2014-06-16,Modify Contacts
+AAZOR,4,Routing Information,2014-06-16,Modify MSISDN
+AAZOR,10,MAP,2014-06-16,Modify MAP Informations
+AAZOR,13,Network Elements Information,2014-06-16,Modify Network elements
+AAZOR,16,Packet Data Service Information,2014-06-16,Modify Packet Data Service Information
+AAZOR,17,IP Roaming/Networking Information,2014-06-16,Add IP range
+AAZOR,21,Contact Information,2014-06-16,Modify Contacts
+AAZOR,17,IP Roaming/Networking Information,2014-01-14,"Update IP roaming and IP-interworking information for AAZOR -
+DON'T IMPLEMENT AAZOR IF NOT ASKED"
+FRAF1,20,LTE Roaming Information,2013-11-22,Add LTE Roaming Information
+FRAF1,13,Network Elements Information,2013-11-08,Add new SGW and PGW
+FRAF1,16,Packet Data Service Information,2013-11-08,Add 2G/3G Qos Pofile
+FRAF1,4,Routing Information,2013-08-21,Add new MSISDN range 33789
+FRAF1,21,Contact Information,2013-07-03,Modify IREG expert
+FRAF1,4,Routing Information,2013-06-10,"Number portability, NDC update (For info only, check partner's
+IR21)"
+FRAF1,13,Network Elements Information,2013-06-10,Add new SGSN 33689007100
+FRAF1,16,Packet Data Service Information,2013-06-10,Add LTE APN Operator Identifier
+FRAF1,17,IP Roaming/Networking Information,2013-06-10,Additional LTE DNS Server
+FRAF1,17,IP Roaming/Networking Information,2013-06-10,Change DNS Server Name
+AAZOR,5,International SCCP Gateway,2013-06-10,Add International SCCP Gateway
+AAZOR,7,SCCP Protocol,2013-06-10,Add SCCP protocol information
+AAZOR,10,MAP,2013-06-10,Add MAP informations
+AAZOR,12,"MAP Inter Operator SMS
+Enhancement",2013-06-10,Add MAP inter operator SMS Enhancement informations
+AAZOR,13,Network Elements Information,2013-06-10,Add new Network Elements Information
+AAZOR,21,Contact Information,2013-06-10,Add Contacts
+AAZOR,8,Subscriber Identity Authentication,2013-06-03,Add Subscriber Identity Authentication for AAZOR Network
+FRAF1,21,Contact Information,2012-11-23,Modify IREG Manager
+FRAF1,4,Routing Information,2012-11-15,"Remove MSISDN range 33 6444 to 33 6446 which belongs to
+Transatel"
+FRAF1,13,Network Elements Information,2012-10-16,Add new SGSN range 3368900710X
+FRAF1,4,Routing Information,2012-09-19,"Add new MSISDN range 33785, 3377155 to 3377159"
+FRAF1,13,Network Elements Information,2012-09-19,Update minor information
+FRAF1,17,IP Roaming/Networking Information,2012-09-19,"Additional ULI MCC/MNC used for national roaming called White
+Zone"
+FRAF1,21,Contact Information,2012-09-19,Add new IREG contact

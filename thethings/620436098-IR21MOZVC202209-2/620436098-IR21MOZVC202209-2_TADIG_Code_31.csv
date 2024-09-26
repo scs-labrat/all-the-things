@@ -1,0 +1,9 @@
+TADIG Code,Section ID,Section Name
+MOZVC,6,Domestic SCCP Gateway
+MOZVC,18,MMS Interworking Information
+MOZVC,19,WLAN Information
+MOZVC,22,Hosted Networks
+MOZVC,23,M2M Roaming Information
+MOZVC,24,MVNO Information
+MOZVC,26,VoLTE Roaming Information Section
+MOZVC,27,LPWA Roaming Information Section

@@ -1,0 +1,53 @@
+TADIG Code,Section ID,Section,Date,Description
+BGDGP,4,Routing Information,2023-03-30,new 0133 numbering series added
+BGDGP,21,Contact Information,2023-03-30,Contacts Updated
+BGDGP,21,Contact Information,2023-03-30,Contacts updated
+BGDGP,21,Contact Information,2023-03-30,Contacts Updated
+BGDGP,21,Contact Information,2023-03-30,Contacts Updated
+BGDGP,4,Routing Information,2022-06-08,"New 013 number series added - Start MSISDN: 01325800000;
+End MSISDN: 01329799999"
+BGDGP,4,Routing Information,2022-06-08,"New 013-Series configuration - Start MSISDN: 01325800000; End
+MSISDN: 01329799999"
+BGDGP,4,Routing Information,2022-04-01,Numbering series added 8801324800000 - 8801325799999
+BGDGP,4,Routing Information,2021-01-18,numbering series added (13233 - 13247)
+BGDGP,5,International SCCP Gateway,2020-12-03,Orange SCCP carrier removed
+BGDGP,5,International SCCP Gateway,2020-12-03,Orange SCCP carrier removed
+BGDGP,17,IP Roaming/Networking Information,2020-12-03,Orange removed as GRX provider
+BGDGP,4,Routing Information,2020-12-02,"new series 13213-13219, 1322, 13230, 13231, 13232 Added"
+BGDGP,17,IP Roaming/Networking Information,2020-12-02,"ASNs 65000 ,64650 & 65470 removed"
+BGDGP,4,Routing Information,2020-11-03,new number series added 13203-13212
+BGDGP,4,Routing Information,2020-09-03,"New NDC (13200, 13201, 13202) Added"
+BGDGP,5,International SCCP Gateway,2020-08-06,TATA is the new ITU/ANSI conversion partner
+BGDGP,21,Contact Information,2020-01-20,Contacts Updated
+"N
+BGDGP","on-
+17","binding
+IP Roaming/Networking Information","dra
+2020-01-07","ft document
+ASNs added"
+BGDGP,4,Routing Information,2019-10-22,CC 880 NDC 14 added due to number portability
+BGDGP,21,Contact Information,2019-10-22,IREG testing contact added
+BGDGP,21,Contact Information,2019-10-22,Contacts added
+BGDGP,13,Network Elements Information,2019-09-01,Remove some GTs
+BGDGP,5,International SCCP Gateway,2019-04-29,SCCP Carrier information updated
+BGDGP,5,International SCCP Gateway,2019-04-28,SCCP Carrier information change
+BGDGP,13,Network Elements Information,2019-04-28,New SMSC addition
+BGDGP,16,Packet Data Service Information,2019-03-14,Packet-switched data edited
+BGDGP,20,LTE Roaming Information,2019-03-14,Agreement information Edited
+BGDGP,16,Packet Data Service Information,2019-03-06,APN operator identifier info edited
+BGDGP,16,Packet Data Service Information,2019-03-05,APN Operator Identifier info added
+BGDGP,17,IP Roaming/Networking Information,2019-03-05,DNS info for LTE added
+BGDGP,20,LTE Roaming Information,2019-03-05,IPX provider's name edited
+BGDGP,20,LTE Roaming Information,2019-03-04,LTE Information updated
+BGDGP,4,Routing Information,2018-10-01,"MNP effective from October 1, 2018. As per regulatory, the
+previous communicated date has been revised."
+BGDGP,4,Routing Information,2018-09-10,"New NDC (130, 131) Added"
+BGDGP,13,Network Elements Information,2018-09-10,"New VLR, MSS added"
+BGDGP,13,Network Elements Information,2018-09-10,New SCP Added
+BGDGP,21,Contact Information,2018-09-10,CAMEL Contact Chnage
+BGDGP,16,Packet Data Service Information,2018-09-09,APN Type added
+BGDGP,17,IP Roaming/Networking Information,2018-02-04,GRX traffic will be migrated from 13th Feb’2018 to 20th Feb’2018.
+BGDGP,13,Network Elements Information,2018-01-11,Add New GT
+BGDGP,13,Network Elements Information,2018-01-11,Add New GT
+BGDGP,13,Network Elements Information,2017-12-12,New GT of Nokia platform HLR.
+BGDGP,21,Contact Information,2017-12-06,Contact info Change

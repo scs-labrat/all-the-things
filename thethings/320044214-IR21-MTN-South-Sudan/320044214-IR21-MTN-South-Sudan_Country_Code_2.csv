@@ -1,0 +1,19 @@
+ROUTING INFORMATION,Column_2,Column_3,Column_4
+CCITT E.164 Number series:,"Country Code
+(CC)",,"National Destination Code
+(NDC)"
+"MSISDN Number
+range(s):",211,,92
+"Network nodes Global Title
+number range(s):",211,,92
+MSRN number range(s):,211,,92
+E.212 Number series:,"Mobile Country Code
+(MCC)",,"Mobile Network Code
+(MNC)"
+,659,,02
+"E.214 Mobile Global
+Title: (MGT)","Country Code of MGT 2
+(CC)",,"Network Code of MGT
+(NC)"
+,211,,92
+Does Number Portability apply3?,,,

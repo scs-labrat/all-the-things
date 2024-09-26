@@ -1,0 +1,11 @@
+Date,Description
+2016-11-02,Add new SMSC GT 33689004033 & 33689004034 - Add new SGSN GT 33689003331 - Add new SGSN GT 33689003399
+2015-11-02,update QCI and ARP
+2015-08-04,Update LTE Information for FRAF1 Network
+2015-06-01,Update IPv6 Connectivity Information
+2015-05-12,Update Diameter Infos
+2015-02-23,Hide MME Hostnames
+2014-11-24,Add new MME hostnames
+2014-11-24,Scenarios updated
+2014-10-20,"Add New MME Hostnames and delete QCI values 6,7 and 9 from LTE information"
+2013-11-22,Add LTE Roaming Information
