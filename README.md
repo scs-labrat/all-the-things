@@ -42,8 +42,8 @@ pip install pdfplumber python-docx pandas rich pyfiglet requests googlesearch-py
    pip install -r requirements.txt
    ```
 
-3. Import the `thethings` directory:
-   Ensure the `thethings` directory is present in your project and properly imported to avoid runtime issues.
+3. Ensure the `thethings` directory is present in your project and properly imported.  This contains the included IR21s 
+   which must be imported with options 1.
 
 4. Run the tool:
    ```bash
@@ -90,7 +90,4 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Author
-**[Your Name/Organization]**
 
-For questions or suggestions, please reach out at [your_email@example.com].
