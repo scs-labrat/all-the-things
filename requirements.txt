@@ -1,0 +1,7 @@
+pdfplumber==0.5.28
+python-docx==0.8.11
+requests==2.31.0
+googlesearch-python==1.0.2
+rich==13.3.2
+pandas==2.0.3
+pyfiglet==0.8.post1
