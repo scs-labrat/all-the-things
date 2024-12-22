@@ -33,7 +33,7 @@ pip install pdfplumber python-docx pandas rich pyfiglet requests googlesearch-py
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/scs-labrat/all-the-things.git
    cd all-the-things
    ```
 
