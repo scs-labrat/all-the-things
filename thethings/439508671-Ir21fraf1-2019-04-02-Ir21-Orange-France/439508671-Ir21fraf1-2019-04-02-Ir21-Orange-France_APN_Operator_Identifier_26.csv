@@ -1,9 +1,0 @@
-Date,Description
-2015-11-06,Update ARP & THP for 2G/3G QoS
-2015-06-01,Update IPv6 Connectivity Information
-2014-06-16,"WARNING : Evolved ARP , in the 2G/3G QOS profiles, is not applicable on this case ! Don't take into account the value :
-Evolved ARP =1"
-2013-11-08,Add 2G/3G Qos Pofile
-2013-06-10,Add LTE APN Operator Identifier
-2012-02-01,"In our GGSN GTPv0 is supported only if the PDP is initiated in GTPv0 (Create PDP Context). We do not support Update PDP
-Context performed in GTPv0 if the PDP was previously initiated in GTPv1."

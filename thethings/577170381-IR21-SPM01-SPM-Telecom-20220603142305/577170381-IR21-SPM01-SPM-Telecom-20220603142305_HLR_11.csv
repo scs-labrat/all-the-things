@@ -1,9 +1,0 @@
-Node type,Node ID,GT address / Address range,"IP address /
-Address range","IPv6 address /
-Address range",Vendor info,"SW / HW
-version","UTC
-offset"
-HLR,,508 55 0070 / 0070,,,ALCATEL,G11,-03:00
-MSC,,508 55 0011 / 0011,,,ALCATEL,R9,-03:00
-VLR,,508 55 0010 / 0010,,,ALCATEL,R9,-03:00
-SMSC,,508 55 0012 / 0012,,,Primal,11.0.4,-03:00

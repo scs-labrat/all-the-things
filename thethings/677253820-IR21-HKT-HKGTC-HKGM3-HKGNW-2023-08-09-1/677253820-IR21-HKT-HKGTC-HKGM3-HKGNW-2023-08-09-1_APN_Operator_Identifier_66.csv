@@ -1,9 +1,0 @@
-Date,Description
-2023-08-09,Add info to fulfill new RAEX schema
-2021-06-11,Update the IPv6 Connectivity Information
-2021-03-09,Add 3 New APNs in WEB List
-2018-02-12,"Delete ""mnc016.mcc454.gprs & For 2G subscriber"" from ""List of APN Operator Identifiers""."
-2018-02-12,"Delete the obsoleted APN from ""APN"" WEB List"", only remain the APN pccw/blackberry.net/internet/mobile."
-2018-02-12,"Delete obsoleted APN from ""APN WAP List"", remain APN pccw/mobile."
-2018-02-12,"Delete obsoleted APN from ""APN MMS List"", remain APN pccw/mobile."
-2016-04-01,Create a Combined IR21 of HKGTC and HKGM3.

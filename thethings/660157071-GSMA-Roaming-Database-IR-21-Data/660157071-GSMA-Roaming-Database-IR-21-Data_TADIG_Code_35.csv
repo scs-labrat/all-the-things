@@ -1,5 +1,0 @@
-Date,Description
-2018-05-11,2G data reference is removed
-2014-02-01,IP range 203.116.42.128/26 missing in previous version reinstated.
-2014-01-21,StarHub introduced 2nd IMSI range and TADIG code (M2M roaming).
-2013-03-02,APN Operator Identifier corrected. It should read mnc005.mcc525.gprs.

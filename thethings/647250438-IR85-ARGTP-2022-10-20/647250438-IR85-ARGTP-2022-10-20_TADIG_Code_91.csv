@@ -1,9 +1,0 @@
-TADIG Code,Section ID,Section Name
-ARGTP,6,Domestic SCCP Gateway
-ARGTP,7,SCCP Protocol available at PMN for connection for International SS7 Roaming
-ARGTP,18,MMS Interworking Information
-ARGTP,19,WLAN Information
-ARGTP,22,Hosted Networks
-ARGTP,23,M2M Roaming Information
-ARGTP,24,MVNO Information
-ARGTP,27,LPWA Roaming Information Section

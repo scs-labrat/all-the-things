@@ -1,9 +1,0 @@
-TADIG Code,Section ID,Section Name
-BGDGP,6,Domestic SCCP Gateway
-BGDGP,9,Test Numbers Information
-BGDGP,14,USSD Information
-BGDGP,19,WLAN Information
-BGDGP,23,M2M Roaming Information
-BGDGP,24,MVNO Information
-BGDGP,26,VoLTE Roaming Information Section
-BGDGP,27,LPWA Roaming Information Section

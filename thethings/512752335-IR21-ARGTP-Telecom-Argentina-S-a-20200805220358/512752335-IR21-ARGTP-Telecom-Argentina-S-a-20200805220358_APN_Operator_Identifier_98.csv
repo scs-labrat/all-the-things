@@ -1,6 +1,0 @@
-List of APN Operator Identifiers,Column_2,Column_3
-APN Operator Identifier,Description,Example
-mnc360.mcc722.gprs,,
-mnc368.mcc722.gprs,Used by M2M,
-mnc361.mcc722.gprs,,
-mnc368.mcc722.3gppnetwork.org,Used by LTE M2M,

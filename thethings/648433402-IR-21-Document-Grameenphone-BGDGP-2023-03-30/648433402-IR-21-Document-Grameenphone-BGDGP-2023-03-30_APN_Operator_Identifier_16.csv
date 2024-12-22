@@ -1,4 +1,0 @@
-List of APN Operator Identifiers,Column_2,Column_3
-APN Operator Identifier,Description,Example
-mnc001.mcc470.gprs,"2G, 3G",gpinternet.mnc001.mcc470.gprs
-apn.epc.mnc001.mcc470.3gppnetwork.org,LTE,gpinternet.apn.epc.mnc001.mcc470.3gppnetwork.org

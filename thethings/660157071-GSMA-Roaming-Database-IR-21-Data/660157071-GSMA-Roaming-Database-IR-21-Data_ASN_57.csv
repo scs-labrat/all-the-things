@@ -1,7 +1,0 @@
-Date,Description
-2015-05-08,MSRN details added. Bogus ASN 23456 is removed.
-2015-02-13,"New ASN 131591 added. While waiting for the next new schema version 9.2 to be ready, ASN 131591 is added to Additional
-Information field in Routing section."
-2014-11-06,658241 is removed Network Nodes Global Range.
-2014-08-18,658241 is added to Network Nodes Global Range.
-2014-01-21,StarHub introduced 2nd IMSI range and TADIG code (M2M roaming).
